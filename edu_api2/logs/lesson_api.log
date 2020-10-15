@@ -1,0 +1,2164 @@
+WARNING 2020-10-09 23:12:28,042 base 93 Not Found: /
+WARNING 2020-10-09 23:12:28,043 basehttp 124 "GET / HTTP/1.1" 404 2364
+WARNING 2020-10-09 23:17:08,388 base 93 Not Found: /
+WARNING 2020-10-09 23:17:08,388 basehttp 124 "GET / HTTP/1.1" 404 2364
+WARNING 2020-10-09 23:17:08,427 base 93 Not Found: /favicon.ico
+WARNING 2020-10-09 23:17:08,427 basehttp 124 "GET /favicon.ico HTTP/1.1" 404 2415
+WARNING 2020-10-09 23:26:26,267 base 93 Not Found: /home/nav/
+WARNING 2020-10-09 23:26:26,269 basehttp 124 "GET /home/nav/ HTTP/1.1" 404 2464
+ERROR 2020-10-09 23:31:15,857 exception 74 The request's session was deleted before the request completed. The user may have logged out in a concurrent request, for example.
+ERROR 2020-10-09 23:31:17,098 exception 74 The request's session was deleted before the request completed. The user may have logged out in a concurrent request, for example.
+WARNING 2020-10-09 23:31:17,946 basehttp 124 "GET /xadmin/course/coursechapter/ HTTP/1.1" 400 164377
+WARNING 2020-10-09 23:31:17,949 basehttp 124 "GET /xadmin/course/coursechapter/ HTTP/1.1" 400 164375
+ERROR 2020-10-09 23:31:17,963 basehttp 124 "GET /xadmin/course/coursechapter/ HTTP/1.1" 500 59
+ERROR 2020-10-09 23:31:17,964 basehttp 124 "GET /xadmin/course/coursechapter/ HTTP/1.1" 500 59
+ERROR 2020-10-09 23:31:18,237 exception 74 The request's session was deleted before the request completed. The user may have logged out in a concurrent request, for example.
+WARNING 2020-10-09 23:31:18,274 basehttp 124 "GET /xadmin/course/course/ HTTP/1.1" 400 164184
+ERROR 2020-10-09 23:31:18,275 basehttp 124 "GET /xadmin/course/course/ HTTP/1.1" 500 59
+ERROR 2020-10-09 23:31:20,342 exception 74 The request's session was deleted before the request completed. The user may have logged out in a concurrent request, for example.
+WARNING 2020-10-09 23:31:20,379 basehttp 124 "GET /xadmin/course/coursechapter/ HTTP/1.1" 400 164377
+ERROR 2020-10-09 23:31:20,380 basehttp 124 "GET /xadmin/course/coursechapter/ HTTP/1.1" 500 59
+ERROR 2020-10-09 23:31:25,339 exception 74 The request's session was deleted before the request completed. The user may have logged out in a concurrent request, for example.
+WARNING 2020-10-09 23:31:25,379 basehttp 124 "GET /xadmin/course/coursechapter/ HTTP/1.1" 400 164376
+ERROR 2020-10-09 23:31:25,380 basehttp 124 "GET /xadmin/course/coursechapter/ HTTP/1.1" 500 59
+ERROR 2020-10-09 23:31:26,031 exception 74 The request's session was deleted before the request completed. The user may have logged out in a concurrent request, for example.
+WARNING 2020-10-09 23:31:26,067 basehttp 124 "GET /xadmin/course/courselesson/ HTTP/1.1" 400 164366
+ERROR 2020-10-09 23:31:26,067 basehttp 124 "GET /xadmin/course/courselesson/ HTTP/1.1" 500 59
+ERROR 2020-10-09 23:31:26,638 exception 74 The request's session was deleted before the request completed. The user may have logged out in a concurrent request, for example.
+WARNING 2020-10-09 23:31:26,675 basehttp 124 "GET /xadmin/course/teacher/ HTTP/1.1" 400 164196
+ERROR 2020-10-09 23:31:26,676 basehttp 124 "GET /xadmin/course/teacher/ HTTP/1.1" 500 59
+ERROR 2020-10-09 23:31:27,355 exception 74 The request's session was deleted before the request completed. The user may have logged out in a concurrent request, for example.
+WARNING 2020-10-09 23:31:27,393 basehttp 124 "GET /xadmin/course/teacher/ HTTP/1.1" 400 164197
+ERROR 2020-10-09 23:31:27,394 basehttp 124 "GET /xadmin/course/teacher/ HTTP/1.1" 500 59
+ERROR 2020-10-09 23:31:27,785 exception 74 The request's session was deleted before the request completed. The user may have logged out in a concurrent request, for example.
+WARNING 2020-10-09 23:31:27,822 basehttp 124 "GET /xadmin/course/courselesson/ HTTP/1.1" 400 164365
+ERROR 2020-10-09 23:31:27,823 basehttp 124 "GET /xadmin/course/courselesson/ HTTP/1.1" 500 59
+ERROR 2020-10-09 23:31:28,193 exception 74 The request's session was deleted before the request completed. The user may have logged out in a concurrent request, for example.
+WARNING 2020-10-09 23:31:28,232 basehttp 124 "GET /xadmin/course/coursechapter/ HTTP/1.1" 400 164379
+ERROR 2020-10-09 23:31:28,232 basehttp 124 "GET /xadmin/course/coursechapter/ HTTP/1.1" 500 59
+ERROR 2020-10-09 23:31:28,645 exception 74 The request's session was deleted before the request completed. The user may have logged out in a concurrent request, for example.
+WARNING 2020-10-09 23:31:28,685 basehttp 124 "GET /xadmin/course/course/ HTTP/1.1" 400 164182
+ERROR 2020-10-09 23:31:28,685 basehttp 124 "GET /xadmin/course/course/ HTTP/1.1" 500 59
+ERROR 2020-10-09 23:31:31,622 exception 74 The request's session was deleted before the request completed. The user may have logged out in a concurrent request, for example.
+WARNING 2020-10-09 23:31:31,659 basehttp 124 "GET /xadmin/course/coursecategory/ HTTP/1.1" 400 164571
+ERROR 2020-10-09 23:31:42,689 exception 74 The request's session was deleted before the request completed. The user may have logged out in a concurrent request, for example.
+WARNING 2020-10-09 23:31:42,728 basehttp 124 "GET /xadmin/course/coursecategory/ HTTP/1.1" 400 164572
+ERROR 2020-10-09 23:32:25,836 exception 74 The request's session was deleted before the request completed. The user may have logged out in a concurrent request, for example.
+WARNING 2020-10-09 23:32:25,875 basehttp 124 "GET /xadmin/course/coursecategory/ HTTP/1.1" 400 164570
+ERROR 2020-10-09 23:32:25,876 basehttp 124 "GET /xadmin/course/coursecategory/ HTTP/1.1" 500 59
+ERROR 2020-10-09 23:32:27,378 exception 74 The request's session was deleted before the request completed. The user may have logged out in a concurrent request, for example.
+WARNING 2020-10-09 23:32:27,420 basehttp 124 "GET /xadmin/course/teacher/ HTTP/1.1" 400 164196
+ERROR 2020-10-09 23:32:27,421 basehttp 124 "GET /xadmin/course/teacher/ HTTP/1.1" 500 59
+ERROR 2020-10-09 23:32:28,773 exception 74 The request's session was deleted before the request completed. The user may have logged out in a concurrent request, for example.
+WARNING 2020-10-09 23:32:28,812 basehttp 124 "GET /xadmin/course/courselesson/ HTTP/1.1" 400 164365
+ERROR 2020-10-09 23:32:40,474 exception 74 The request's session was deleted before the request completed. The user may have logged out in a concurrent request, for example.
+WARNING 2020-10-09 23:32:40,512 basehttp 124 "GET /xadmin/course/coursechapter/ HTTP/1.1" 400 164370
+ERROR 2020-10-09 23:33:11,481 exception 74 The request's session was deleted before the request completed. The user may have logged out in a concurrent request, for example.
+WARNING 2020-10-09 23:33:11,528 basehttp 124 "GET /xadmin/course/courselesson/ HTTP/1.1" 400 164341
+WARNING 2020-10-09 23:34:24,692 base 93 Not Found: /media/teacher/logo2x.png
+WARNING 2020-10-09 23:34:24,694 basehttp 124 "GET /media/teacher/logo2x.png HTTP/1.1" 404 1824
+WARNING 2020-10-09 23:39:01,143 base 93 Not Found: /home/nav/
+WARNING 2020-10-09 23:39:01,145 basehttp 124 "GET /home/nav/ HTTP/1.1" 404 2464
+WARNING 2020-10-09 23:40:16,801 base 93 Not Found: /home/nav/
+WARNING 2020-10-09 23:40:16,803 basehttp 124 "GET /home/nav/ HTTP/1.1" 404 2464
+WARNING 2020-10-09 23:40:57,589 base 93 Not Found: /
+WARNING 2020-10-09 23:40:57,590 basehttp 124 "GET / HTTP/1.1" 404 2364
+WARNING 2020-10-09 23:40:57,623 base 93 Not Found: /favicon.ico
+WARNING 2020-10-09 23:40:57,624 basehttp 124 "GET /favicon.ico HTTP/1.1" 404 2415
+WARNING 2020-10-09 23:41:07,320 base 93 Not Found: /user/course
+WARNING 2020-10-09 23:41:07,321 basehttp 124 "GET /user/course HTTP/1.1" 404 2945
+WARNING 2020-10-09 23:41:17,401 base 93 Not Found: /course
+WARNING 2020-10-09 23:41:17,401 basehttp 124 "GET /course HTTP/1.1" 404 2966
+WARNING 2020-10-09 23:41:27,346 base 93 Not Found: /course/courses
+WARNING 2020-10-09 23:41:27,347 basehttp 124 "GET /course/courses HTTP/1.1" 404 2990
+WARNING 2020-10-09 23:41:39,613 base 93 Not Found: /course category/
+WARNING 2020-10-09 23:41:39,613 basehttp 124 "GET /course%20category/ HTTP/1.1" 404 2998
+WARNING 2020-10-10 09:05:33,348 base 93 Not Found: /home/nav/
+WARNING 2020-10-10 09:05:33,384 basehttp 124 "GET /home/nav/ HTTP/1.1" 404 2568
+WARNING 2020-10-10 09:07:14,594 base 93 Not Found: /home/nav/
+WARNING 2020-10-10 09:07:14,598 basehttp 124 "GET /home/nav/ HTTP/1.1" 404 2568
+WARNING 2020-10-10 09:07:43,048 base 93 Not Found: /home/nav/
+WARNING 2020-10-10 09:07:43,052 basehttp 124 "GET /home/nav/ HTTP/1.1" 404 2568
+WARNING 2020-10-10 09:07:43,060 base 93 Not Found: /home/nav/
+WARNING 2020-10-10 09:07:43,060 basehttp 124 "GET /home/nav/ HTTP/1.1" 404 2568
+WARNING 2020-10-10 10:15:28,325 base 93 Not Found: /user/captcha/
+WARNING 2020-10-10 10:15:28,349 basehttp 124 "GET /user/captcha/?username=admin HTTP/1.1" 404 29
+WARNING 2020-10-10 10:15:33,220 base 93 Not Found: /user/captcha/
+WARNING 2020-10-10 10:15:33,221 basehttp 124 "GET /user/captcha/?username=admin HTTP/1.1" 404 29
+WARNING 2020-10-10 10:16:09,933 base 93 Not Found: /cart/option/
+WARNING 2020-10-10 10:16:09,934 basehttp 124 "GET /cart/option/ HTTP/1.1" 404 2576
+WARNING 2020-10-10 10:16:17,550 base 93 Not Found: /cart/option/
+WARNING 2020-10-10 10:16:17,552 basehttp 124 "GET /cart/option/ HTTP/1.1" 404 2576
+WARNING 2020-10-10 10:17:22,634 base 93 Not Found: /cart/option/
+WARNING 2020-10-10 10:17:22,636 basehttp 124 "GET /cart/option/ HTTP/1.1" 404 2576
+WARNING 2020-10-10 10:19:15,056 base 93 Not Found: /
+WARNING 2020-10-10 10:19:15,057 basehttp 124 "GET / HTTP/1.1" 404 2468
+WARNING 2020-10-10 10:19:15,199 base 93 Not Found: /favicon.ico
+WARNING 2020-10-10 10:19:15,200 basehttp 124 "GET /favicon.ico HTTP/1.1" 404 2519
+ERROR 2020-10-10 10:19:26,423 exception 118 Internal Server Error: /xadmin/
+Traceback (most recent call last):
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django_redis\cache.py", line 32, in _decorator
+    return method(self, *args, **kwargs)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django_redis\cache.py", line 81, in get
+    client=client)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django_redis\client\default.py", line 201, in get
+    raise ConnectionInterrupted(connection=client, parent=e)
+django_redis.exceptions.ConnectionInterrupted: Redis ConnectionError: Error 10061 connecting to 127.0.0.1:6379. 由于目标计算机积极拒绝，无法连接。.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\core\handlers\exception.py", line 35, in inner
+    response = get_response(request)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\core\handlers\base.py", line 158, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\core\handlers\base.py", line 156, in _get_response
+    response = response.render()
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\response.py", line 106, in render
+    self.content = self.rendered_content
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\response.py", line 83, in rendered_content
+    content = template.render(context, self._request)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 175, in render
+    return self._render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 943, in render
+    bit = node.render_annotated(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 910, in render_annotated
+    return self.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\loader_tags.py", line 155, in render
+    return compiled_parent._render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 943, in render
+    bit = node.render_annotated(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 910, in render_annotated
+    return self.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\loader_tags.py", line 155, in render
+    return compiled_parent._render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 943, in render
+    bit = node.render_annotated(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 910, in render_annotated
+    return self.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\loader_tags.py", line 67, in render
+    result = block.nodelist.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 943, in render
+    bit = node.render_annotated(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 910, in render_annotated
+    return self.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\loader_tags.py", line 67, in render
+    result = block.nodelist.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 943, in render
+    bit = node.render_annotated(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 910, in render_annotated
+    return self.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\library.py", line 192, in render
+    output = self.func(*resolved_args, **resolved_kwargs)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\xadmin\templatetags\xadmin_tags.py", line 25, in view_block
+    result = block_func(context, nodes, *args, **kwargs)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\xadmin\plugins\themes.py", line 68, in block_top_navmenu
+    ex_themes = cache.get(THEME_CACHE_KEY)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django_redis\cache.py", line 39, in _decorator
+    raise e.parent
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django_redis\client\default.py", line 199, in get
+    value = client.get(key)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\redis\client.py", line 1606, in get
+    return self.execute_command('GET', name)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\redis\client.py", line 898, in execute_command
+    conn = self.connection or pool.get_connection(command_name, **options)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\redis\connection.py", line 1192, in get_connection
+    connection.connect()
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\redis\connection.py", line 563, in connect
+    raise ConnectionError(self._error_message(e))
+redis.exceptions.ConnectionError: Error 10061 connecting to 127.0.0.1:6379. 由于目标计算机积极拒绝，无法连接。.
+ERROR 2020-10-10 10:19:28,529 basehttp 124 "GET /xadmin/ HTTP/1.1" 500 338691
+WARNING 2020-10-10 10:20:13,469 base 93 Not Found: /cart/option/
+WARNING 2020-10-10 10:20:13,470 basehttp 124 "GET /cart/option/ HTTP/1.1" 404 2576
+WARNING 2020-10-10 10:20:36,945 base 93 Not Found: /cart/option/
+WARNING 2020-10-10 10:20:36,946 basehttp 124 "GET /cart/option/ HTTP/1.1" 404 2576
+WARNING 2020-10-10 10:21:07,893 base 93 Not Found: /cart/option/
+WARNING 2020-10-10 10:21:07,893 basehttp 124 "GET /cart/option/ HTTP/1.1" 404 2576
+WARNING 2020-10-10 10:21:40,062 base 93 Not Found: /cart/option/
+WARNING 2020-10-10 10:21:40,063 basehttp 124 "GET /cart/option/ HTTP/1.1" 404 2576
+WARNING 2020-10-10 10:21:48,103 base 93 Not Found: /cart/option/
+WARNING 2020-10-10 10:21:48,104 basehttp 124 "GET /cart/option/ HTTP/1.1" 404 2576
+WARNING 2020-10-10 10:23:33,299 basehttp 124 "GET /cart/option/ HTTP/1.1" 403 38
+WARNING 2020-10-10 10:24:45,295 basehttp 124 "GET /cart/option/ HTTP/1.1" 403 38
+WARNING 2020-10-10 10:24:47,722 basehttp 124 "GET /cart/option/ HTTP/1.1" 403 38
+WARNING 2020-10-10 10:29:37,038 basehttp 124 "GET /cart/option/ HTTP/1.1" 403 38
+WARNING 2020-10-10 10:33:15,399 base 93 Not Found: /user/check_phone/18237068250
+WARNING 2020-10-10 10:33:15,400 basehttp 124 "GET /user/check_phone/18237068250 HTTP/1.1" 404 3102
+WARNING 2020-10-10 11:12:11,461 base 93 Not Found: /user/check_phone/18237068250
+WARNING 2020-10-10 11:12:11,461 basehttp 124 "GET /user/check_phone/18237068250 HTTP/1.1" 404 3102
+ERROR 2020-10-10 19:34:06,378 basehttp 124 "GET /user/sms/18237068250 HTTP/1.1" 500 87
+ERROR 2020-10-10 19:37:12,350 basehttp 124 "GET /user/sms/18237068250 HTTP/1.1" 500 87
+ERROR 2020-10-10 19:41:28,143 basehttp 124 "GET /user/sms/18237068250 HTTP/1.1" 500 87
+WARNING 2020-10-10 19:41:40,449 basehttp 124 "GET /user/check_phone/18237068250 HTTP/1.1" 400 38
+ERROR 2020-10-10 19:41:50,967 basehttp 124 "GET /user/sms/18237068250 HTTP/1.1" 500 87
+ERROR 2020-10-10 19:44:24,698 basehttp 124 "GET /user/sms/18237068250 HTTP/1.1" 500 87
+ERROR 2020-10-10 19:46:32,231 basehttp 124 "POST /user/register/ HTTP/1.1" 500 87
+WARNING 2020-10-10 19:49:02,713 basehttp 124 "POST /user/register/ HTTP/1.1" 400 41
+WARNING 2020-10-10 19:54:34,648 basehttp 124 "GET /user/register/ HTTP/1.1" 405 7858
+WARNING 2020-10-10 19:55:54,209 basehttp 124 "POST /user/register/ HTTP/1.1" 400 41
+ERROR 2020-10-10 19:56:59,297 basehttp 124 "POST /user/register/ HTTP/1.1" 500 7904
+ERROR 2020-10-10 19:58:44,831 basehttp 124 "POST /user/register/ HTTP/1.1" 500 7904
+WARNING 2020-10-10 19:58:53,011 basehttp 124 "POST /user/register/ HTTP/1.1" 400 41
+WARNING 2020-10-10 20:11:33,207 basehttp 124 "POST /user/sms/18237068250 HTTP/1.1" 405 46
+ERROR 2020-10-10 20:14:48,078 basehttp 124 "POST /user/register/ HTTP/1.1" 500 87
+ERROR 2020-10-10 20:19:50,018 basehttp 124 "POST /user/register/ HTTP/1.1" 500 87
+ERROR 2020-10-10 20:23:28,459 basehttp 124 "POST /user/register/ HTTP/1.1" 500 87
+ERROR 2020-10-10 20:25:50,676 basehttp 124 "POST /user/register/ HTTP/1.1" 500 87
+ERROR 2020-10-10 20:38:37,889 basehttp 124 "GET /user/sms/18237068250 HTTP/1.1" 500 87
+ERROR 2020-10-10 20:39:43,551 basehttp 124 "GET /user/sms/18237068250 HTTP/1.1" 500 87
+ERROR 2020-10-10 20:43:32,271 basehttp 124 "POST /user/captcha/ HTTP/1.1" 500 87
+WARNING 2020-10-10 20:54:10,145 basehttp 124 "GET /static/rest_framework/css/bootstrap.min.css.map HTTP/1.1" 404 1744
+WARNING 2020-10-10 20:55:05,540 basehttp 124 "GET /static/rest_framework/css/bootstrap.min.css.map HTTP/1.1" 404 1744
+WARNING 2020-10-10 20:55:07,492 basehttp 124 "GET /static/rest_framework/css/bootstrap.min.css.map HTTP/1.1" 404 1744
+WARNING 2020-10-10 21:01:12,993 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-10-10 21:01:12,995 base 93 Not Found: /media/course/2efe076a-8378-4980-9b94-606a0546fb93.png
+WARNING 2020-10-10 21:01:12,995 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1911
+WARNING 2020-10-10 21:01:12,995 basehttp 124 "GET /media/course/2efe076a-8378-4980-9b94-606a0546fb93.png HTTP/1.1" 404 1911
+WARNING 2020-10-10 21:02:14,276 base 93 Not Found: /media/course/2efe076a-8378-4980-9b94-606a0546fb93.png
+WARNING 2020-10-10 21:02:14,277 basehttp 124 "GET /media/course/2efe076a-8378-4980-9b94-606a0546fb93.png HTTP/1.1" 404 1911
+WARNING 2020-10-10 21:02:59,615 base 93 Not Found: /media/course/7d0ac6cc-1487-4041-b42c-a0a9546f6aee.png
+WARNING 2020-10-10 21:02:59,617 basehttp 124 "GET /media/course/7d0ac6cc-1487-4041-b42c-a0a9546f6aee.png HTTP/1.1" 404 1911
+WARNING 2020-10-10 21:03:22,754 base 93 Not Found: /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png
+WARNING 2020-10-10 21:03:22,755 base 93 Not Found: /media/course/2efe076a-8378-4980-9b94-606a0546fb93.png
+WARNING 2020-10-10 21:03:22,756 basehttp 124 "GET /media/course/25b934c3-ade0-4176-81a1-8ca905d487c4.png HTTP/1.1" 404 1911
+WARNING 2020-10-10 21:03:22,756 basehttp 124 "GET /media/course/2efe076a-8378-4980-9b94-606a0546fb93.png HTTP/1.1" 404 1911
+WARNING 2020-10-10 21:03:28,644 base 93 Not Found: /media/course/course-cover.jpeg
+WARNING 2020-10-10 21:03:28,645 basehttp 124 "GET /media/course/course-cover.jpeg HTTP/1.1" 404 1842
+WARNING 2020-10-10 21:03:50,378 base 93 Not Found: /media/course/2.jpeg
+WARNING 2020-10-10 21:03:50,379 basehttp 124 "GET /media/course/2.jpeg HTTP/1.1" 404 1809
+WARNING 2020-10-10 21:04:00,461 base 93 Not Found: /media/course/2.jpeg
+WARNING 2020-10-10 21:04:00,462 basehttp 124 "GET /media/course/2.jpeg HTTP/1.1" 404 1809
+WARNING 2020-10-10 21:04:10,296 base 93 Not Found: /media/course/2.jpeg
+WARNING 2020-10-10 21:04:10,296 basehttp 124 "GET /media/course/2.jpeg HTTP/1.1" 404 1809
+WARNING 2020-10-10 21:04:27,061 base 93 Not Found: /media/course/2.jpeg
+WARNING 2020-10-10 21:04:27,062 basehttp 124 "GET /media/course/2.jpeg HTTP/1.1" 404 1809
+WARNING 2020-10-10 21:04:40,272 base 93 Not Found: /media/course/2.jpeg
+WARNING 2020-10-10 21:04:40,273 basehttp 124 "GET /media/course/2.jpeg HTTP/1.1" 404 1809
+WARNING 2020-10-10 21:05:03,801 base 93 Not Found: /media/course/2.jpeg
+WARNING 2020-10-10 21:05:03,802 basehttp 124 "GET /media/course/2.jpeg HTTP/1.1" 404 1809
+WARNING 2020-10-10 21:05:13,425 base 93 Not Found: /media/course/2.jpeg
+WARNING 2020-10-10 21:05:13,426 basehttp 124 "GET /media/course/2.jpeg HTTP/1.1" 404 1809
+WARNING 2020-10-10 21:05:23,980 base 93 Not Found: /media/course/a3dd8fd0-d395-4566-a573-a0e3f60d5f85.jpg
+WARNING 2020-10-10 21:05:23,981 basehttp 124 "GET /media/course/a3dd8fd0-d395-4566-a573-a0e3f60d5f85.jpg HTTP/1.1" 404 1911
+WARNING 2020-10-10 21:05:33,002 base 93 Not Found: /media/course/2452c9d2-3539-447b-a98a-99378a750dee.png
+WARNING 2020-10-10 21:05:33,002 basehttp 124 "GET /media/course/2452c9d2-3539-447b-a98a-99378a750dee.png HTTP/1.1" 404 1911
+WARNING 2020-10-10 21:05:41,953 base 93 Not Found: /media/course/74e724d3-5ee5-40aa-a4bf-98f866ca15ab.jpg
+WARNING 2020-10-10 21:05:41,954 basehttp 124 "GET /media/course/74e724d3-5ee5-40aa-a4bf-98f866ca15ab.jpg HTTP/1.1" 404 1911
+WARNING 2020-10-10 21:05:50,404 base 93 Not Found: /media/course/788dbf38-076d-4d1e-b7cc-4b69a5abbf35.png
+WARNING 2020-10-10 21:05:50,405 basehttp 124 "GET /media/course/788dbf38-076d-4d1e-b7cc-4b69a5abbf35.png HTTP/1.1" 404 1911
+WARNING 2020-10-10 21:06:08,595 base 93 Not Found: /media/course/307a9365-a113-4df8-916a-7396aa898b65.jpg
+WARNING 2020-10-10 21:06:08,595 basehttp 124 "GET /media/course/307a9365-a113-4df8-916a-7396aa898b65.jpg HTTP/1.1" 404 1911
+WARNING 2020-10-10 21:06:15,830 base 93 Not Found: /media/course/9000eeed-b0af-4df4-b6fb-c2becfcc5b18.jpg
+WARNING 2020-10-10 21:06:15,831 basehttp 124 "GET /media/course/9000eeed-b0af-4df4-b6fb-c2becfcc5b18.jpg HTTP/1.1" 404 1911
+WARNING 2020-10-10 21:06:23,774 base 93 Not Found: /media/course/2.jpeg
+WARNING 2020-10-10 21:06:23,775 basehttp 124 "GET /media/course/2.jpeg HTTP/1.1" 404 1809
+WARNING 2020-10-10 21:06:49,562 base 93 Not Found: /media/course/2efe076a-8378-4980-9b94-606a0546fb93.png
+WARNING 2020-10-10 21:06:49,563 basehttp 124 "GET /media/course/2efe076a-8378-4980-9b94-606a0546fb93.png HTTP/1.1" 404 1911
+WARNING 2020-10-10 21:08:07,253 basehttp 124 "GET /cart/option/ HTTP/1.1" 403 38
+WARNING 2020-10-10 21:11:47,963 base 93 Not Found: /course/detail/29/
+WARNING 2020-10-10 21:11:47,964 basehttp 124 "GET /course/detail/29/ HTTP/1.1" 404 3108
+WARNING 2020-10-10 21:12:18,917 base 93 Not Found: /media/teacher/logo2x.png
+WARNING 2020-10-10 21:12:18,917 basehttp 124 "GET /media/teacher/logo2x.png HTTP/1.1" 404 1824
+WARNING 2020-10-10 21:13:34,883 base 93 Not Found: /course/detail/29/
+WARNING 2020-10-10 21:13:34,883 basehttp 124 "GET /course/detail/29/ HTTP/1.1" 404 3108
+WARNING 2020-10-10 21:14:38,074 base 93 Not Found: /course/detail/1/
+WARNING 2020-10-10 21:14:38,076 basehttp 124 "GET /course/detail/1/ HTTP/1.1" 404 3105
+WARNING 2020-10-10 21:15:04,944 base 93 Not Found: /course/detail/28/
+WARNING 2020-10-10 21:15:04,944 basehttp 124 "GET /course/detail/28/ HTTP/1.1" 404 3108
+WARNING 2020-10-10 21:15:13,379 base 93 Not Found: /course/detail/28/
+WARNING 2020-10-10 21:15:13,381 basehttp 124 "GET /course/detail/28/ HTTP/1.1" 404 3108
+WARNING 2020-10-10 21:16:10,012 base 93 Not Found: /course/detail/28/
+WARNING 2020-10-10 21:16:10,013 basehttp 124 "GET /course/detail/28/ HTTP/1.1" 404 3108
+WARNING 2020-10-10 21:16:11,438 base 93 Not Found: /course/detail/28/
+WARNING 2020-10-10 21:16:11,439 basehttp 124 "GET /course/detail/28/ HTTP/1.1" 404 3108
+WARNING 2020-10-10 21:16:17,701 base 93 Not Found: /course/detail/0/
+WARNING 2020-10-10 21:16:17,704 basehttp 124 "GET /course/detail/0/ HTTP/1.1" 404 3105
+WARNING 2020-10-10 21:16:20,863 base 93 Not Found: /course/detail/0/
+WARNING 2020-10-10 21:16:20,863 basehttp 124 "GET /course/detail/0/ HTTP/1.1" 404 3105
+WARNING 2020-10-10 21:17:38,405 basehttp 124 "GET /cart/option/ HTTP/1.1" 403 38
+WARNING 2020-10-10 21:18:12,829 base 93 Not Found: /course/detail/29/
+WARNING 2020-10-10 21:18:12,830 basehttp 124 "GET /course/detail/29/ HTTP/1.1" 404 3108
+WARNING 2020-10-10 21:20:20,739 base 93 Not Found: /course/detail/29/
+WARNING 2020-10-10 21:20:20,739 basehttp 124 "GET /course/detail/29/ HTTP/1.1" 404 3108
+ERROR 2020-10-10 21:20:20,769 basehttp 124 "GET /course/detail/29/ HTTP/1.1" 500 59
+WARNING 2020-10-10 21:20:21,761 base 93 Not Found: /course/detail/29/
+WARNING 2020-10-10 21:20:21,761 basehttp 124 "GET /course/detail/29/ HTTP/1.1" 404 3108
+WARNING 2020-10-10 21:20:30,821 base 93 Not Found: /course/detail/29/
+WARNING 2020-10-10 21:20:30,821 basehttp 124 "GET /course/detail/29/ HTTP/1.1" 404 3108
+WARNING 2020-10-10 21:21:09,879 base 93 Not Found: /course/detail/29/
+WARNING 2020-10-10 21:21:09,880 basehttp 124 "GET /course/detail/29/ HTTP/1.1" 404 3108
+WARNING 2020-10-10 21:23:01,859 base 93 Not Found: /course/detail/29/
+WARNING 2020-10-10 21:23:01,860 basehttp 124 "GET /course/detail/29/ HTTP/1.1" 404 3108
+WARNING 2020-10-10 21:27:10,061 base 93 Not Found: /course/detail/29/
+WARNING 2020-10-10 21:27:10,062 basehttp 124 "GET /course/detail/29/ HTTP/1.1" 404 3108
+WARNING 2020-10-11 08:40:47,790 base 93 Not Found: /course/detail/29/
+WARNING 2020-10-11 08:40:47,830 basehttp 124 "GET /course/detail/29/ HTTP/1.1" 404 3283
+WARNING 2020-10-11 09:21:05,840 base 93 Not Found: /course/detail/29/
+WARNING 2020-10-11 09:21:05,840 basehttp 124 "GET /course/detail/29/ HTTP/1.1" 404 3283
+WARNING 2020-10-11 09:34:30,883 base 93 Not Found: /course/detail/29/
+WARNING 2020-10-11 09:34:30,883 basehttp 124 "GET /course/detail/29/ HTTP/1.1" 404 3283
+WARNING 2020-10-11 09:35:37,003 base 93 Not Found: /course/detail/29/
+WARNING 2020-10-11 09:35:37,007 basehttp 124 "GET /course/detail/29/ HTTP/1.1" 404 3283
+WARNING 2020-10-11 09:38:20,911 base 93 Not Found: /course/detail/29/
+WARNING 2020-10-11 09:38:20,911 basehttp 124 "GET /course/detail/29/ HTTP/1.1" 404 3283
+WARNING 2020-10-11 09:38:23,721 base 93 Not Found: /course/detail/29/
+WARNING 2020-10-11 09:38:23,721 basehttp 124 "GET /course/detail/29/ HTTP/1.1" 404 3283
+WARNING 2020-10-11 09:39:50,053 base 93 Not Found: /course/detail/29/
+WARNING 2020-10-11 09:39:50,053 basehttp 124 "GET /course/detail/29/ HTTP/1.1" 404 3283
+WARNING 2020-10-11 09:47:34,585 base 93 Not Found: /course/detail/29/
+WARNING 2020-10-11 09:47:34,589 basehttp 124 "GET /course/detail/29/ HTTP/1.1" 404 3445
+WARNING 2020-10-11 09:51:08,365 base 93 Not Found: /course/detail/29/
+WARNING 2020-10-11 09:51:08,365 basehttp 124 "GET /course/detail/29/ HTTP/1.1" 404 3445
+ERROR 2020-10-11 10:25:35,984 basehttp 124 "GET /course/detail/29 HTTP/1.1" 500 87
+ERROR 2020-10-11 10:30:46,678 basehttp 124 "GET /course/detail/29 HTTP/1.1" 500 87
+ERROR 2020-10-11 10:33:27,782 basehttp 124 "GET /course/detail/29 HTTP/1.1" 500 87
+ERROR 2020-10-11 10:35:14,741 basehttp 124 "GET /course/detail/29 HTTP/1.1" 500 87
+ERROR 2020-10-11 10:36:07,217 basehttp 124 "GET /course/detail/29 HTTP/1.1" 500 87
+WARNING 2020-10-11 10:44:57,624 base 93 Not Found: /course/detail/0
+WARNING 2020-10-11 10:44:57,624 basehttp 124 "GET /course/detail/0 HTTP/1.1" 404 25
+WARNING 2020-10-11 10:47:10,688 base 93 Not Found: /
+WARNING 2020-10-11 10:47:10,688 basehttp 124 "GET / HTTP/1.1" 404 2470
+WARNING 2020-10-11 10:47:10,751 base 93 Not Found: /favicon.ico
+WARNING 2020-10-11 10:47:10,751 basehttp 124 "GET /favicon.ico HTTP/1.1" 404 2521
+WARNING 2020-10-11 10:58:09,259 basehttp 124 "POST /cart/option/ HTTP/1.1" 403 38
+WARNING 2020-10-11 10:58:10,191 basehttp 124 "POST /cart/option/ HTTP/1.1" 403 38
+WARNING 2020-10-11 10:58:11,471 basehttp 124 "POST /cart/option/ HTTP/1.1" 403 38
+WARNING 2020-10-11 11:33:16,658 basehttp 124 "GET /cart/option/ HTTP/1.1" 403 38
+WARNING 2020-10-11 20:26:58,824 basehttp 124 "GET /cart/option/?course=29 HTTP/1.1" 403 38
+WARNING 2020-10-11 20:33:16,565 basehttp 124 "GET /cart/option/?course=29 HTTP/1.1" 403 38
+WARNING 2020-10-11 20:42:51,086 basehttp 124 "GET /cart/option/?course=29 HTTP/1.1" 403 38
+ERROR 2020-10-11 21:38:38,428 exception 118 Internal Server Error: /cart/options/
+Traceback (most recent call last):
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\core\handlers\exception.py", line 35, in inner
+    response = get_response(request)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\core\handlers\base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\core\handlers\base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\rest_framework\viewsets.py", line 103, in view
+    handler = getattr(self, action)
+AttributeError: 'CartViewSet' object has no attribute 'list_cart'
+ERROR 2020-10-11 21:38:40,493 basehttp 124 "GET /cart/options/?course=29 HTTP/1.1" 500 77696
+WARNING 2020-10-11 21:41:58,698 base 93 Not Found: /cart/options/
+WARNING 2020-10-11 21:41:58,699 basehttp 124 "GET /cart/options/?course=29 HTTP/1.1" 404 2923
+ERROR 2020-10-11 21:43:00,154 exception 118 Internal Server Error: /cart/option/
+Traceback (most recent call last):
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\core\handlers\exception.py", line 35, in inner
+    response = get_response(request)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\core\handlers\base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\core\handlers\base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\rest_framework\viewsets.py", line 103, in view
+    handler = getattr(self, action)
+AttributeError: 'CartViewSet' object has no attribute 'list_cart'
+ERROR 2020-10-11 21:43:00,247 basehttp 124 "GET /cart/option/?course=29 HTTP/1.1" 500 77684
+ERROR 2020-10-11 21:47:01,752 exception 118 Internal Server Error: /cart/option/
+Traceback (most recent call last):
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\core\handlers\exception.py", line 35, in inner
+    response = get_response(request)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\core\handlers\base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\core\handlers\base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\rest_framework\viewsets.py", line 103, in view
+    handler = getattr(self, action)
+AttributeError: 'CartViewSet' object has no attribute 'list_cart'
+ERROR 2020-10-11 21:47:01,775 basehttp 124 "POST /cart/option/ HTTP/1.1" 500 77348
+ERROR 2020-10-11 21:56:09,099 exception 118 Internal Server Error: /cart/option/
+Traceback (most recent call last):
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\core\handlers\exception.py", line 35, in inner
+    response = get_response(request)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\core\handlers\base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\core\handlers\base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\rest_framework\viewsets.py", line 103, in view
+    handler = getattr(self, action)
+AttributeError: 'CartViewSet' object has no attribute 'list_cart'
+ERROR 2020-10-11 21:56:09,132 basehttp 124 "POST /cart/option/ HTTP/1.1" 500 77348
+ERROR 2020-10-11 21:56:30,776 exception 118 Internal Server Error: /cart/option/
+Traceback (most recent call last):
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\core\handlers\exception.py", line 35, in inner
+    response = get_response(request)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\core\handlers\base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\core\handlers\base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\rest_framework\viewsets.py", line 103, in view
+    handler = getattr(self, action)
+AttributeError: 'CartViewSet' object has no attribute 'list_cart'
+ERROR 2020-10-11 21:56:30,804 basehttp 124 "POST /cart/option/ HTTP/1.1" 500 77348
+ERROR 2020-10-11 21:59:04,426 exception 118 Internal Server Error: /cart/option/
+Traceback (most recent call last):
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\core\handlers\exception.py", line 35, in inner
+    response = get_response(request)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\core\handlers\base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\core\handlers\base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\rest_framework\viewsets.py", line 103, in view
+    handler = getattr(self, action)
+AttributeError: 'CartViewSet' object has no attribute 'cart_lst'
+ERROR 2020-10-11 21:59:04,507 basehttp 124 "POST /cart/option/ HTTP/1.1" 500 77342
+WARNING 2020-10-11 22:01:35,367 basehttp 124 "POST /cart/option/ HTTP/1.1" 403 38
+WARNING 2020-10-11 22:03:28,911 basehttp 124 "POST /cart/option/ HTTP/1.1" 403 38
+WARNING 2020-10-11 22:23:26,602 basehttp 124 "POST /cart/option/ HTTP/1.1" 403 38
+WARNING 2020-10-11 22:23:44,608 basehttp 124 "POST /cart/option/ HTTP/1.1" 403 38
+WARNING 2020-10-11 22:26:41,556 basehttp 124 "POST /cart/option/ HTTP/1.1" 403 38
+WARNING 2020-10-11 22:28:35,705 basehttp 124 "POST /cart/option/ HTTP/1.1" 403 38
+WARNING 2020-10-11 22:28:54,016 basehttp 124 "POST /cart/option/ HTTP/1.1" 403 38
+WARNING 2020-10-11 22:34:11,437 basehttp 124 "POST /cart/option/ HTTP/1.1" 403 38
+WARNING 2020-10-11 22:38:21,858 basehttp 124 "GET /cart/option/ HTTP/1.1" 403 38
+WARNING 2020-10-11 22:38:48,449 basehttp 124 "POST /cart/option/ HTTP/1.1" 403 38
+WARNING 2020-10-11 22:38:52,959 basehttp 124 "POST /cart/option/ HTTP/1.1" 403 38
+WARNING 2020-10-11 22:45:53,286 basehttp 124 "POST /cart/option/ HTTP/1.1" 403 38
+WARNING 2020-10-11 22:48:51,644 basehttp 124 "POST /cart/option/ HTTP/1.1" 403 35
+WARNING 2020-10-11 22:50:11,808 basehttp 124 "POST /cart/option/ HTTP/1.1" 403 35
+WARNING 2020-10-11 22:50:58,770 basehttp 124 "POST /cart/option/ HTTP/1.1" 403 35
+WARNING 2020-10-11 22:56:02,946 basehttp 124 "POST /cart/option/ HTTP/1.1" 403 35
+WARNING 2020-10-12 17:23:17,391 basehttp 124 "GET /cart/order/ HTTP/1.1" 403 38
+WARNING 2020-10-12 17:23:30,339 basehttp 124 "GET /cart/order/ HTTP/1.1" 403 38
+WARNING 2020-10-12 17:23:45,309 base 93 Not Found: /user/captcha/
+WARNING 2020-10-12 17:23:45,309 basehttp 124 "GET /user/captcha/?username=admin HTTP/1.1" 404 29
+WARNING 2020-10-12 17:23:50,282 base 93 Not Found: /user/captcha/
+WARNING 2020-10-12 17:23:50,282 basehttp 124 "GET /user/captcha/?username=admin HTTP/1.1" 404 29
+WARNING 2020-10-12 17:24:07,277 base 93 Not Found: /user/check_phone/
+WARNING 2020-10-12 17:24:07,277 basehttp 124 "GET /user/check_phone/ HTTP/1.1" 404 3482
+WARNING 2020-10-12 17:24:42,040 basehttp 124 "GET /cart/order/ HTTP/1.1" 403 38
+WARNING 2020-10-12 17:24:47,281 basehttp 124 "GET /cart/order/ HTTP/1.1" 403 38
+WARNING 2020-10-12 17:26:16,229 basehttp 124 "GET /cart/option/ HTTP/1.1" 403 38
+WARNING 2020-10-12 17:26:37,463 basehttp 124 "GET /cart/option/ HTTP/1.1" 403 38
+WARNING 2020-10-12 17:42:10,358 basehttp 124 "GET /cart/option/ HTTP/1.1" 403 35
+WARNING 2020-10-12 17:42:22,553 basehttp 124 "POST /cart/option/ HTTP/1.1" 403 35
+WARNING 2020-10-12 17:42:46,436 basehttp 124 "GET /cart/order/ HTTP/1.1" 403 35
+WARNING 2020-10-12 17:43:03,504 basehttp 124 "POST /cart/option/ HTTP/1.1" 403 35
+WARNING 2020-10-12 17:43:05,266 basehttp 124 "GET /cart/option/ HTTP/1.1" 403 35
+WARNING 2020-10-12 18:13:58,725 basehttp 124 "GET /cart/option/ HTTP/1.1" 403 35
+WARNING 2020-10-12 18:14:43,907 basehttp 124 "GET /cart/option/ HTTP/1.1" 403 35
+WARNING 2020-10-12 18:15:05,927 basehttp 124 "GET /cart/option/ HTTP/1.1" 403 35
+WARNING 2020-10-12 18:18:22,576 basehttp 124 "GET /cart/option/ HTTP/1.1" 403 35
+WARNING 2020-10-12 18:18:34,688 basehttp 124 "GET /cart/option/ HTTP/1.1" 403 35
+WARNING 2020-10-12 18:18:43,574 basehttp 124 "GET /cart/option/ HTTP/1.1" 403 35
+WARNING 2020-10-12 18:20:22,975 basehttp 124 "GET /cart/option/ HTTP/1.1" 403 35
+WARNING 2020-10-12 18:20:25,054 basehttp 124 "GET /cart/option/ HTTP/1.1" 403 35
+WARNING 2020-10-12 18:20:38,801 basehttp 124 "POST /cart/option/ HTTP/1.1" 403 35
+WARNING 2020-10-12 18:59:12,460 base 93 Not Found: /
+WARNING 2020-10-12 18:59:12,461 basehttp 124 "GET / HTTP/1.1" 404 2685
+WARNING 2020-10-12 18:59:12,594 base 93 Not Found: /favicon.ico
+WARNING 2020-10-12 18:59:12,595 basehttp 124 "GET /favicon.ico HTTP/1.1" 404 2736
+WARNING 2020-10-12 18:59:21,474 base 93 Not Found: /xamin
+WARNING 2020-10-12 18:59:21,475 basehttp 124 "GET /xamin HTTP/1.1" 404 2718
+WARNING 2020-10-12 18:59:25,098 base 93 Not Found: /xamin
+WARNING 2020-10-12 18:59:25,099 basehttp 124 "GET /xamin HTTP/1.1" 404 2718
+WARNING 2020-10-12 18:59:26,010 base 93 Not Found: /xamin
+WARNING 2020-10-12 18:59:26,010 basehttp 124 "GET /xamin HTTP/1.1" 404 2718
+ERROR 2020-10-12 19:01:13,828 exception 118 Internal Server Error: /xadmin/course/course/1/update/
+Traceback (most recent call last):
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\core\handlers\exception.py", line 35, in inner
+    response = get_response(request)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\core\handlers\base.py", line 158, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\core\handlers\base.py", line 156, in _get_response
+    response = response.render()
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\response.py", line 106, in render
+    self.content = self.rendered_content
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\response.py", line 83, in rendered_content
+    content = template.render(context, self._request)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 175, in render
+    return self._render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 943, in render
+    bit = node.render_annotated(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 910, in render_annotated
+    return self.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\loader_tags.py", line 155, in render
+    return compiled_parent._render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 943, in render
+    bit = node.render_annotated(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 910, in render_annotated
+    return self.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\loader_tags.py", line 155, in render
+    return compiled_parent._render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 943, in render
+    bit = node.render_annotated(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 910, in render_annotated
+    return self.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\loader_tags.py", line 67, in render
+    result = block.nodelist.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 943, in render
+    bit = node.render_annotated(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 910, in render_annotated
+    return self.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\loader_tags.py", line 67, in render
+    result = block.nodelist.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 943, in render
+    bit = node.render_annotated(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 910, in render_annotated
+    return self.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\crispy_forms\templatetags\crispy_forms_tags.py", line 203, in render
+    c = self.get_render(context).flatten()
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\crispy_forms\templatetags\crispy_forms_tags.py", line 120, in get_render
+    actual_form, node_context, template_pack=self.template_pack
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\crispy_forms\helper.py", line 301, in render_layout
+    html = self.layout.render(form, self.form_style, context, template_pack=template_pack)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\crispy_forms\layout.py", line 135, in render
+    return self.get_rendered_fields(form, form_style, context, template_pack, **kwargs)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\crispy_forms\layout.py", line 98, in get_rendered_fields
+    for field in self.fields
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\crispy_forms\layout.py", line 98, in <genexpr>
+    for field in self.fields
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\crispy_forms\utils.py", line 66, in render_field
+    return field.render(form, form_style, context, template_pack=template_pack,)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\crispy_forms\layout.py", line 367, in render
+    fields = self.get_rendered_fields(form, form_style, context, template_pack, **kwargs)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\crispy_forms\layout.py", line 98, in get_rendered_fields
+    for field in self.fields
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\crispy_forms\layout.py", line 98, in <genexpr>
+    for field in self.fields
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\crispy_forms\utils.py", line 66, in render_field
+    return field.render(form, form_style, context, template_pack=template_pack,)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\crispy_forms\layout.py", line 367, in render
+    fields = self.get_rendered_fields(form, form_style, context, template_pack, **kwargs)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\crispy_forms\layout.py", line 98, in get_rendered_fields
+    for field in self.fields
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\crispy_forms\layout.py", line 98, in <genexpr>
+    for field in self.fields
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\crispy_forms\utils.py", line 66, in render_field
+    return field.render(form, form_style, context, template_pack=template_pack,)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\crispy_forms\layout.py", line 289, in render
+    fields = self.get_rendered_fields(form, form_style, context, template_pack, **kwargs)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\crispy_forms\layout.py", line 98, in get_rendered_fields
+    for field in self.fields
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\crispy_forms\layout.py", line 98, in <genexpr>
+    for field in self.fields
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\crispy_forms\utils.py", line 139, in render_field
+    html = template.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 175, in render
+    return self._render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 943, in render
+    bit = node.render_annotated(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 910, in render_annotated
+    return self.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\defaulttags.py", line 314, in render
+    return nodelist.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 943, in render
+    bit = node.render_annotated(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 910, in render_annotated
+    return self.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\defaulttags.py", line 314, in render
+    return nodelist.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 943, in render
+    bit = node.render_annotated(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 910, in render_annotated
+    return self.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\defaulttags.py", line 314, in render
+    return nodelist.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 943, in render
+    bit = node.render_annotated(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 910, in render_annotated
+    return self.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\crispy_forms\templatetags\crispy_forms_field.py", line 155, in render
+    return str(field)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\utils\html.py", line 380, in <lambda>
+    klass.__str__ = lambda self: mark_safe(klass_str(self))
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\forms\boundfield.py", line 36, in __str__
+    return self.as_widget()
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\forms\boundfield.py", line 118, in as_widget
+    **kwargs
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\ckeditor\widgets.py", line 117, in render
+    self._set_config()
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\ckeditor_uploader\widgets.py", line 12, in _set_config
+    self.config.setdefault('filebrowserUploadUrl', reverse('ckeditor_upload'))
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\urls\base.py", line 90, in reverse
+    return iri_to_uri(resolver._reverse_with_prefix(view, prefix, *args, **kwargs))
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\urls\resolvers.py", line 636, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'ckeditor_upload' not found. 'ckeditor_upload' is not a valid view function or pattern name.
+ERROR 2020-10-12 19:01:16,276 basehttp 124 "GET /xadmin/course/course/1/update/ HTTP/1.1" 500 719723
+ERROR 2020-10-12 19:01:16,293 basehttp 124 "GET /xadmin/course/course/1/update/ HTTP/1.1" 500 59
+ERROR 2020-10-12 19:01:28,779 exception 118 Internal Server Error: /xadmin/course/course/28/update/
+Traceback (most recent call last):
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\core\handlers\exception.py", line 35, in inner
+    response = get_response(request)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\core\handlers\base.py", line 158, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\core\handlers\base.py", line 156, in _get_response
+    response = response.render()
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\response.py", line 106, in render
+    self.content = self.rendered_content
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\response.py", line 83, in rendered_content
+    content = template.render(context, self._request)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 175, in render
+    return self._render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 943, in render
+    bit = node.render_annotated(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 910, in render_annotated
+    return self.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\loader_tags.py", line 155, in render
+    return compiled_parent._render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 943, in render
+    bit = node.render_annotated(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 910, in render_annotated
+    return self.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\loader_tags.py", line 155, in render
+    return compiled_parent._render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 943, in render
+    bit = node.render_annotated(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 910, in render_annotated
+    return self.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\loader_tags.py", line 67, in render
+    result = block.nodelist.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 943, in render
+    bit = node.render_annotated(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 910, in render_annotated
+    return self.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\loader_tags.py", line 67, in render
+    result = block.nodelist.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 943, in render
+    bit = node.render_annotated(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 910, in render_annotated
+    return self.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\crispy_forms\templatetags\crispy_forms_tags.py", line 203, in render
+    c = self.get_render(context).flatten()
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\crispy_forms\templatetags\crispy_forms_tags.py", line 120, in get_render
+    actual_form, node_context, template_pack=self.template_pack
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\crispy_forms\helper.py", line 301, in render_layout
+    html = self.layout.render(form, self.form_style, context, template_pack=template_pack)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\crispy_forms\layout.py", line 135, in render
+    return self.get_rendered_fields(form, form_style, context, template_pack, **kwargs)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\crispy_forms\layout.py", line 98, in get_rendered_fields
+    for field in self.fields
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\crispy_forms\layout.py", line 98, in <genexpr>
+    for field in self.fields
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\crispy_forms\utils.py", line 66, in render_field
+    return field.render(form, form_style, context, template_pack=template_pack,)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\crispy_forms\layout.py", line 367, in render
+    fields = self.get_rendered_fields(form, form_style, context, template_pack, **kwargs)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\crispy_forms\layout.py", line 98, in get_rendered_fields
+    for field in self.fields
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\crispy_forms\layout.py", line 98, in <genexpr>
+    for field in self.fields
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\crispy_forms\utils.py", line 66, in render_field
+    return field.render(form, form_style, context, template_pack=template_pack,)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\crispy_forms\layout.py", line 367, in render
+    fields = self.get_rendered_fields(form, form_style, context, template_pack, **kwargs)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\crispy_forms\layout.py", line 98, in get_rendered_fields
+    for field in self.fields
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\crispy_forms\layout.py", line 98, in <genexpr>
+    for field in self.fields
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\crispy_forms\utils.py", line 66, in render_field
+    return field.render(form, form_style, context, template_pack=template_pack,)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\crispy_forms\layout.py", line 289, in render
+    fields = self.get_rendered_fields(form, form_style, context, template_pack, **kwargs)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\crispy_forms\layout.py", line 98, in get_rendered_fields
+    for field in self.fields
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\crispy_forms\layout.py", line 98, in <genexpr>
+    for field in self.fields
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\crispy_forms\utils.py", line 139, in render_field
+    html = template.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 175, in render
+    return self._render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 943, in render
+    bit = node.render_annotated(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 910, in render_annotated
+    return self.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\defaulttags.py", line 314, in render
+    return nodelist.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 943, in render
+    bit = node.render_annotated(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 910, in render_annotated
+    return self.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\defaulttags.py", line 314, in render
+    return nodelist.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 943, in render
+    bit = node.render_annotated(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 910, in render_annotated
+    return self.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\defaulttags.py", line 314, in render
+    return nodelist.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 943, in render
+    bit = node.render_annotated(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 910, in render_annotated
+    return self.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\crispy_forms\templatetags\crispy_forms_field.py", line 155, in render
+    return str(field)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\utils\html.py", line 380, in <lambda>
+    klass.__str__ = lambda self: mark_safe(klass_str(self))
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\forms\boundfield.py", line 36, in __str__
+    return self.as_widget()
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\forms\boundfield.py", line 118, in as_widget
+    **kwargs
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\ckeditor\widgets.py", line 117, in render
+    self._set_config()
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\ckeditor_uploader\widgets.py", line 12, in _set_config
+    self.config.setdefault('filebrowserUploadUrl', reverse('ckeditor_upload'))
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\urls\base.py", line 90, in reverse
+    return iri_to_uri(resolver._reverse_with_prefix(view, prefix, *args, **kwargs))
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\urls\resolvers.py", line 636, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'ckeditor_upload' not found. 'ckeditor_upload' is not a valid view function or pattern name.
+ERROR 2020-10-12 19:01:28,879 basehttp 124 "GET /xadmin/course/course/28/update/ HTTP/1.1" 500 719718
+ERROR 2020-10-12 19:01:33,533 exception 118 Internal Server Error: /xadmin/course/course/29/update/
+Traceback (most recent call last):
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\core\handlers\exception.py", line 35, in inner
+    response = get_response(request)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\core\handlers\base.py", line 158, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\core\handlers\base.py", line 156, in _get_response
+    response = response.render()
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\response.py", line 106, in render
+    self.content = self.rendered_content
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\response.py", line 83, in rendered_content
+    content = template.render(context, self._request)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 175, in render
+    return self._render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 943, in render
+    bit = node.render_annotated(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 910, in render_annotated
+    return self.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\loader_tags.py", line 155, in render
+    return compiled_parent._render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 943, in render
+    bit = node.render_annotated(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 910, in render_annotated
+    return self.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\loader_tags.py", line 155, in render
+    return compiled_parent._render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 943, in render
+    bit = node.render_annotated(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 910, in render_annotated
+    return self.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\loader_tags.py", line 67, in render
+    result = block.nodelist.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 943, in render
+    bit = node.render_annotated(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 910, in render_annotated
+    return self.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\loader_tags.py", line 67, in render
+    result = block.nodelist.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 943, in render
+    bit = node.render_annotated(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 910, in render_annotated
+    return self.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\crispy_forms\templatetags\crispy_forms_tags.py", line 203, in render
+    c = self.get_render(context).flatten()
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\crispy_forms\templatetags\crispy_forms_tags.py", line 120, in get_render
+    actual_form, node_context, template_pack=self.template_pack
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\crispy_forms\helper.py", line 301, in render_layout
+    html = self.layout.render(form, self.form_style, context, template_pack=template_pack)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\crispy_forms\layout.py", line 135, in render
+    return self.get_rendered_fields(form, form_style, context, template_pack, **kwargs)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\crispy_forms\layout.py", line 98, in get_rendered_fields
+    for field in self.fields
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\crispy_forms\layout.py", line 98, in <genexpr>
+    for field in self.fields
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\crispy_forms\utils.py", line 66, in render_field
+    return field.render(form, form_style, context, template_pack=template_pack,)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\crispy_forms\layout.py", line 367, in render
+    fields = self.get_rendered_fields(form, form_style, context, template_pack, **kwargs)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\crispy_forms\layout.py", line 98, in get_rendered_fields
+    for field in self.fields
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\crispy_forms\layout.py", line 98, in <genexpr>
+    for field in self.fields
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\crispy_forms\utils.py", line 66, in render_field
+    return field.render(form, form_style, context, template_pack=template_pack,)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\crispy_forms\layout.py", line 367, in render
+    fields = self.get_rendered_fields(form, form_style, context, template_pack, **kwargs)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\crispy_forms\layout.py", line 98, in get_rendered_fields
+    for field in self.fields
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\crispy_forms\layout.py", line 98, in <genexpr>
+    for field in self.fields
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\crispy_forms\utils.py", line 66, in render_field
+    return field.render(form, form_style, context, template_pack=template_pack,)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\crispy_forms\layout.py", line 289, in render
+    fields = self.get_rendered_fields(form, form_style, context, template_pack, **kwargs)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\crispy_forms\layout.py", line 98, in get_rendered_fields
+    for field in self.fields
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\crispy_forms\layout.py", line 98, in <genexpr>
+    for field in self.fields
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\crispy_forms\utils.py", line 139, in render_field
+    html = template.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 175, in render
+    return self._render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 943, in render
+    bit = node.render_annotated(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 910, in render_annotated
+    return self.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\defaulttags.py", line 314, in render
+    return nodelist.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 943, in render
+    bit = node.render_annotated(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 910, in render_annotated
+    return self.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\defaulttags.py", line 314, in render
+    return nodelist.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 943, in render
+    bit = node.render_annotated(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 910, in render_annotated
+    return self.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\defaulttags.py", line 314, in render
+    return nodelist.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 943, in render
+    bit = node.render_annotated(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 910, in render_annotated
+    return self.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\crispy_forms\templatetags\crispy_forms_field.py", line 155, in render
+    return str(field)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\utils\html.py", line 380, in <lambda>
+    klass.__str__ = lambda self: mark_safe(klass_str(self))
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\forms\boundfield.py", line 36, in __str__
+    return self.as_widget()
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\forms\boundfield.py", line 118, in as_widget
+    **kwargs
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\ckeditor\widgets.py", line 117, in render
+    self._set_config()
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\ckeditor_uploader\widgets.py", line 12, in _set_config
+    self.config.setdefault('filebrowserUploadUrl', reverse('ckeditor_upload'))
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\urls\base.py", line 90, in reverse
+    return iri_to_uri(resolver._reverse_with_prefix(view, prefix, *args, **kwargs))
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\urls\resolvers.py", line 636, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'ckeditor_upload' not found. 'ckeditor_upload' is not a valid view function or pattern name.
+ERROR 2020-10-12 19:01:33,638 basehttp 124 "GET /xadmin/course/course/29/update/ HTTP/1.1" 500 719917
+ERROR 2020-10-12 19:06:24,618 exception 118 Internal Server Error: /xadmin/course/course/26/update/
+Traceback (most recent call last):
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\core\handlers\exception.py", line 35, in inner
+    response = get_response(request)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\core\handlers\base.py", line 158, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\core\handlers\base.py", line 156, in _get_response
+    response = response.render()
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\response.py", line 106, in render
+    self.content = self.rendered_content
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\response.py", line 83, in rendered_content
+    content = template.render(context, self._request)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 175, in render
+    return self._render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 943, in render
+    bit = node.render_annotated(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 910, in render_annotated
+    return self.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\loader_tags.py", line 155, in render
+    return compiled_parent._render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 943, in render
+    bit = node.render_annotated(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 910, in render_annotated
+    return self.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\loader_tags.py", line 155, in render
+    return compiled_parent._render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 943, in render
+    bit = node.render_annotated(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 910, in render_annotated
+    return self.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\loader_tags.py", line 67, in render
+    result = block.nodelist.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 943, in render
+    bit = node.render_annotated(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 910, in render_annotated
+    return self.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\loader_tags.py", line 67, in render
+    result = block.nodelist.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 943, in render
+    bit = node.render_annotated(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 910, in render_annotated
+    return self.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\crispy_forms\templatetags\crispy_forms_tags.py", line 203, in render
+    c = self.get_render(context).flatten()
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\crispy_forms\templatetags\crispy_forms_tags.py", line 120, in get_render
+    actual_form, node_context, template_pack=self.template_pack
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\crispy_forms\helper.py", line 301, in render_layout
+    html = self.layout.render(form, self.form_style, context, template_pack=template_pack)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\crispy_forms\layout.py", line 135, in render
+    return self.get_rendered_fields(form, form_style, context, template_pack, **kwargs)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\crispy_forms\layout.py", line 98, in get_rendered_fields
+    for field in self.fields
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\crispy_forms\layout.py", line 98, in <genexpr>
+    for field in self.fields
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\crispy_forms\utils.py", line 66, in render_field
+    return field.render(form, form_style, context, template_pack=template_pack,)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\crispy_forms\layout.py", line 367, in render
+    fields = self.get_rendered_fields(form, form_style, context, template_pack, **kwargs)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\crispy_forms\layout.py", line 98, in get_rendered_fields
+    for field in self.fields
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\crispy_forms\layout.py", line 98, in <genexpr>
+    for field in self.fields
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\crispy_forms\utils.py", line 66, in render_field
+    return field.render(form, form_style, context, template_pack=template_pack,)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\crispy_forms\layout.py", line 367, in render
+    fields = self.get_rendered_fields(form, form_style, context, template_pack, **kwargs)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\crispy_forms\layout.py", line 98, in get_rendered_fields
+    for field in self.fields
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\crispy_forms\layout.py", line 98, in <genexpr>
+    for field in self.fields
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\crispy_forms\utils.py", line 66, in render_field
+    return field.render(form, form_style, context, template_pack=template_pack,)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\crispy_forms\layout.py", line 289, in render
+    fields = self.get_rendered_fields(form, form_style, context, template_pack, **kwargs)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\crispy_forms\layout.py", line 98, in get_rendered_fields
+    for field in self.fields
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\crispy_forms\layout.py", line 98, in <genexpr>
+    for field in self.fields
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\crispy_forms\utils.py", line 139, in render_field
+    html = template.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 175, in render
+    return self._render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 943, in render
+    bit = node.render_annotated(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 910, in render_annotated
+    return self.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\defaulttags.py", line 314, in render
+    return nodelist.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 943, in render
+    bit = node.render_annotated(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 910, in render_annotated
+    return self.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\defaulttags.py", line 314, in render
+    return nodelist.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 943, in render
+    bit = node.render_annotated(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 910, in render_annotated
+    return self.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\defaulttags.py", line 314, in render
+    return nodelist.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 943, in render
+    bit = node.render_annotated(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 910, in render_annotated
+    return self.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\crispy_forms\templatetags\crispy_forms_field.py", line 155, in render
+    return str(field)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\utils\html.py", line 380, in <lambda>
+    klass.__str__ = lambda self: mark_safe(klass_str(self))
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\forms\boundfield.py", line 36, in __str__
+    return self.as_widget()
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\forms\boundfield.py", line 118, in as_widget
+    **kwargs
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\ckeditor\widgets.py", line 117, in render
+    self._set_config()
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\ckeditor_uploader\widgets.py", line 12, in _set_config
+    self.config.setdefault('filebrowserUploadUrl', reverse('ckeditor_upload'))
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\urls\base.py", line 90, in reverse
+    return iri_to_uri(resolver._reverse_with_prefix(view, prefix, *args, **kwargs))
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\urls\resolvers.py", line 636, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'ckeditor_upload' not found. 'ckeditor_upload' is not a valid view function or pattern name.
+ERROR 2020-10-12 19:06:24,719 basehttp 124 "GET /xadmin/course/course/26/update/ HTTP/1.1" 500 719901
+ERROR 2020-10-12 19:10:48,953 exception 118 Internal Server Error: /xadmin/course/course/29/update/
+Traceback (most recent call last):
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\core\handlers\exception.py", line 35, in inner
+    response = get_response(request)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\core\handlers\base.py", line 158, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\core\handlers\base.py", line 156, in _get_response
+    response = response.render()
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\response.py", line 106, in render
+    self.content = self.rendered_content
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\response.py", line 83, in rendered_content
+    content = template.render(context, self._request)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 175, in render
+    return self._render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 943, in render
+    bit = node.render_annotated(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 910, in render_annotated
+    return self.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\loader_tags.py", line 155, in render
+    return compiled_parent._render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 943, in render
+    bit = node.render_annotated(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 910, in render_annotated
+    return self.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\loader_tags.py", line 155, in render
+    return compiled_parent._render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 943, in render
+    bit = node.render_annotated(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 910, in render_annotated
+    return self.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\loader_tags.py", line 67, in render
+    result = block.nodelist.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 943, in render
+    bit = node.render_annotated(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 910, in render_annotated
+    return self.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\loader_tags.py", line 67, in render
+    result = block.nodelist.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 943, in render
+    bit = node.render_annotated(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 910, in render_annotated
+    return self.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\crispy_forms\templatetags\crispy_forms_tags.py", line 203, in render
+    c = self.get_render(context).flatten()
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\crispy_forms\templatetags\crispy_forms_tags.py", line 120, in get_render
+    actual_form, node_context, template_pack=self.template_pack
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\crispy_forms\helper.py", line 301, in render_layout
+    html = self.layout.render(form, self.form_style, context, template_pack=template_pack)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\crispy_forms\layout.py", line 135, in render
+    return self.get_rendered_fields(form, form_style, context, template_pack, **kwargs)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\crispy_forms\layout.py", line 98, in get_rendered_fields
+    for field in self.fields
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\crispy_forms\layout.py", line 98, in <genexpr>
+    for field in self.fields
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\crispy_forms\utils.py", line 66, in render_field
+    return field.render(form, form_style, context, template_pack=template_pack,)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\crispy_forms\layout.py", line 367, in render
+    fields = self.get_rendered_fields(form, form_style, context, template_pack, **kwargs)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\crispy_forms\layout.py", line 98, in get_rendered_fields
+    for field in self.fields
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\crispy_forms\layout.py", line 98, in <genexpr>
+    for field in self.fields
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\crispy_forms\utils.py", line 66, in render_field
+    return field.render(form, form_style, context, template_pack=template_pack,)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\crispy_forms\layout.py", line 367, in render
+    fields = self.get_rendered_fields(form, form_style, context, template_pack, **kwargs)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\crispy_forms\layout.py", line 98, in get_rendered_fields
+    for field in self.fields
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\crispy_forms\layout.py", line 98, in <genexpr>
+    for field in self.fields
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\crispy_forms\utils.py", line 66, in render_field
+    return field.render(form, form_style, context, template_pack=template_pack,)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\crispy_forms\layout.py", line 289, in render
+    fields = self.get_rendered_fields(form, form_style, context, template_pack, **kwargs)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\crispy_forms\layout.py", line 98, in get_rendered_fields
+    for field in self.fields
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\crispy_forms\layout.py", line 98, in <genexpr>
+    for field in self.fields
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\crispy_forms\utils.py", line 139, in render_field
+    html = template.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 175, in render
+    return self._render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 943, in render
+    bit = node.render_annotated(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 910, in render_annotated
+    return self.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\defaulttags.py", line 314, in render
+    return nodelist.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 943, in render
+    bit = node.render_annotated(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 910, in render_annotated
+    return self.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\defaulttags.py", line 314, in render
+    return nodelist.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 943, in render
+    bit = node.render_annotated(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 910, in render_annotated
+    return self.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\defaulttags.py", line 314, in render
+    return nodelist.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 943, in render
+    bit = node.render_annotated(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 910, in render_annotated
+    return self.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\crispy_forms\templatetags\crispy_forms_field.py", line 155, in render
+    return str(field)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\utils\html.py", line 380, in <lambda>
+    klass.__str__ = lambda self: mark_safe(klass_str(self))
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\forms\boundfield.py", line 36, in __str__
+    return self.as_widget()
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\forms\boundfield.py", line 118, in as_widget
+    **kwargs
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\ckeditor\widgets.py", line 117, in render
+    self._set_config()
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\ckeditor_uploader\widgets.py", line 12, in _set_config
+    self.config.setdefault('filebrowserUploadUrl', reverse('ckeditor_upload'))
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\urls\base.py", line 90, in reverse
+    return iri_to_uri(resolver._reverse_with_prefix(view, prefix, *args, **kwargs))
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\urls\resolvers.py", line 636, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'ckeditor_upload' not found. 'ckeditor_upload' is not a valid view function or pattern name.
+ERROR 2020-10-12 19:10:49,112 basehttp 124 "GET /xadmin/course/course/29/update/ HTTP/1.1" 500 720019
+ERROR 2020-10-12 19:10:57,159 exception 118 Internal Server Error: /xadmin/course/course/29/update/
+Traceback (most recent call last):
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\core\handlers\exception.py", line 35, in inner
+    response = get_response(request)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\core\handlers\base.py", line 158, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\core\handlers\base.py", line 156, in _get_response
+    response = response.render()
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\response.py", line 106, in render
+    self.content = self.rendered_content
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\response.py", line 83, in rendered_content
+    content = template.render(context, self._request)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 175, in render
+    return self._render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 943, in render
+    bit = node.render_annotated(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 910, in render_annotated
+    return self.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\loader_tags.py", line 155, in render
+    return compiled_parent._render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 943, in render
+    bit = node.render_annotated(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 910, in render_annotated
+    return self.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\loader_tags.py", line 155, in render
+    return compiled_parent._render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 943, in render
+    bit = node.render_annotated(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 910, in render_annotated
+    return self.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\loader_tags.py", line 67, in render
+    result = block.nodelist.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 943, in render
+    bit = node.render_annotated(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 910, in render_annotated
+    return self.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\loader_tags.py", line 67, in render
+    result = block.nodelist.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 943, in render
+    bit = node.render_annotated(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 910, in render_annotated
+    return self.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\crispy_forms\templatetags\crispy_forms_tags.py", line 203, in render
+    c = self.get_render(context).flatten()
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\crispy_forms\templatetags\crispy_forms_tags.py", line 120, in get_render
+    actual_form, node_context, template_pack=self.template_pack
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\crispy_forms\helper.py", line 301, in render_layout
+    html = self.layout.render(form, self.form_style, context, template_pack=template_pack)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\crispy_forms\layout.py", line 135, in render
+    return self.get_rendered_fields(form, form_style, context, template_pack, **kwargs)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\crispy_forms\layout.py", line 98, in get_rendered_fields
+    for field in self.fields
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\crispy_forms\layout.py", line 98, in <genexpr>
+    for field in self.fields
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\crispy_forms\utils.py", line 66, in render_field
+    return field.render(form, form_style, context, template_pack=template_pack,)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\crispy_forms\layout.py", line 367, in render
+    fields = self.get_rendered_fields(form, form_style, context, template_pack, **kwargs)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\crispy_forms\layout.py", line 98, in get_rendered_fields
+    for field in self.fields
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\crispy_forms\layout.py", line 98, in <genexpr>
+    for field in self.fields
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\crispy_forms\utils.py", line 66, in render_field
+    return field.render(form, form_style, context, template_pack=template_pack,)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\crispy_forms\layout.py", line 367, in render
+    fields = self.get_rendered_fields(form, form_style, context, template_pack, **kwargs)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\crispy_forms\layout.py", line 98, in get_rendered_fields
+    for field in self.fields
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\crispy_forms\layout.py", line 98, in <genexpr>
+    for field in self.fields
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\crispy_forms\utils.py", line 66, in render_field
+    return field.render(form, form_style, context, template_pack=template_pack,)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\crispy_forms\layout.py", line 289, in render
+    fields = self.get_rendered_fields(form, form_style, context, template_pack, **kwargs)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\crispy_forms\layout.py", line 98, in get_rendered_fields
+    for field in self.fields
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\crispy_forms\layout.py", line 98, in <genexpr>
+    for field in self.fields
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\crispy_forms\utils.py", line 139, in render_field
+    html = template.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 175, in render
+    return self._render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 943, in render
+    bit = node.render_annotated(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 910, in render_annotated
+    return self.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\defaulttags.py", line 314, in render
+    return nodelist.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 943, in render
+    bit = node.render_annotated(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 910, in render_annotated
+    return self.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\defaulttags.py", line 314, in render
+    return nodelist.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 943, in render
+    bit = node.render_annotated(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 910, in render_annotated
+    return self.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\defaulttags.py", line 314, in render
+    return nodelist.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 943, in render
+    bit = node.render_annotated(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 910, in render_annotated
+    return self.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\crispy_forms\templatetags\crispy_forms_field.py", line 155, in render
+    return str(field)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\utils\html.py", line 380, in <lambda>
+    klass.__str__ = lambda self: mark_safe(klass_str(self))
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\forms\boundfield.py", line 36, in __str__
+    return self.as_widget()
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\forms\boundfield.py", line 118, in as_widget
+    **kwargs
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\ckeditor\widgets.py", line 117, in render
+    self._set_config()
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\ckeditor_uploader\widgets.py", line 12, in _set_config
+    self.config.setdefault('filebrowserUploadUrl', reverse('ckeditor_upload'))
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\urls\base.py", line 90, in reverse
+    return iri_to_uri(resolver._reverse_with_prefix(view, prefix, *args, **kwargs))
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\urls\resolvers.py", line 636, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'ckeditor_upload' not found. 'ckeditor_upload' is not a valid view function or pattern name.
+ERROR 2020-10-12 19:10:57,258 basehttp 124 "GET /xadmin/course/course/29/update/ HTTP/1.1" 500 720154
+ERROR 2020-10-12 19:11:03,006 exception 118 Internal Server Error: /xadmin/course/course/25/update/
+Traceback (most recent call last):
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\core\handlers\exception.py", line 35, in inner
+    response = get_response(request)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\core\handlers\base.py", line 158, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\core\handlers\base.py", line 156, in _get_response
+    response = response.render()
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\response.py", line 106, in render
+    self.content = self.rendered_content
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\response.py", line 83, in rendered_content
+    content = template.render(context, self._request)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 175, in render
+    return self._render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 943, in render
+    bit = node.render_annotated(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 910, in render_annotated
+    return self.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\loader_tags.py", line 155, in render
+    return compiled_parent._render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 943, in render
+    bit = node.render_annotated(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 910, in render_annotated
+    return self.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\loader_tags.py", line 155, in render
+    return compiled_parent._render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 943, in render
+    bit = node.render_annotated(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 910, in render_annotated
+    return self.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\loader_tags.py", line 67, in render
+    result = block.nodelist.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 943, in render
+    bit = node.render_annotated(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 910, in render_annotated
+    return self.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\loader_tags.py", line 67, in render
+    result = block.nodelist.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 943, in render
+    bit = node.render_annotated(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 910, in render_annotated
+    return self.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\crispy_forms\templatetags\crispy_forms_tags.py", line 203, in render
+    c = self.get_render(context).flatten()
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\crispy_forms\templatetags\crispy_forms_tags.py", line 120, in get_render
+    actual_form, node_context, template_pack=self.template_pack
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\crispy_forms\helper.py", line 301, in render_layout
+    html = self.layout.render(form, self.form_style, context, template_pack=template_pack)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\crispy_forms\layout.py", line 135, in render
+    return self.get_rendered_fields(form, form_style, context, template_pack, **kwargs)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\crispy_forms\layout.py", line 98, in get_rendered_fields
+    for field in self.fields
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\crispy_forms\layout.py", line 98, in <genexpr>
+    for field in self.fields
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\crispy_forms\utils.py", line 66, in render_field
+    return field.render(form, form_style, context, template_pack=template_pack,)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\crispy_forms\layout.py", line 367, in render
+    fields = self.get_rendered_fields(form, form_style, context, template_pack, **kwargs)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\crispy_forms\layout.py", line 98, in get_rendered_fields
+    for field in self.fields
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\crispy_forms\layout.py", line 98, in <genexpr>
+    for field in self.fields
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\crispy_forms\utils.py", line 66, in render_field
+    return field.render(form, form_style, context, template_pack=template_pack,)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\crispy_forms\layout.py", line 367, in render
+    fields = self.get_rendered_fields(form, form_style, context, template_pack, **kwargs)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\crispy_forms\layout.py", line 98, in get_rendered_fields
+    for field in self.fields
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\crispy_forms\layout.py", line 98, in <genexpr>
+    for field in self.fields
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\crispy_forms\utils.py", line 66, in render_field
+    return field.render(form, form_style, context, template_pack=template_pack,)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\crispy_forms\layout.py", line 289, in render
+    fields = self.get_rendered_fields(form, form_style, context, template_pack, **kwargs)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\crispy_forms\layout.py", line 98, in get_rendered_fields
+    for field in self.fields
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\crispy_forms\layout.py", line 98, in <genexpr>
+    for field in self.fields
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\crispy_forms\utils.py", line 139, in render_field
+    html = template.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 175, in render
+    return self._render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 943, in render
+    bit = node.render_annotated(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 910, in render_annotated
+    return self.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\defaulttags.py", line 314, in render
+    return nodelist.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 943, in render
+    bit = node.render_annotated(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 910, in render_annotated
+    return self.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\defaulttags.py", line 314, in render
+    return nodelist.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 943, in render
+    bit = node.render_annotated(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 910, in render_annotated
+    return self.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\defaulttags.py", line 314, in render
+    return nodelist.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 943, in render
+    bit = node.render_annotated(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 910, in render_annotated
+    return self.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\crispy_forms\templatetags\crispy_forms_field.py", line 155, in render
+    return str(field)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\utils\html.py", line 380, in <lambda>
+    klass.__str__ = lambda self: mark_safe(klass_str(self))
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\forms\boundfield.py", line 36, in __str__
+    return self.as_widget()
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\forms\boundfield.py", line 118, in as_widget
+    **kwargs
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\ckeditor\widgets.py", line 117, in render
+    self._set_config()
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\ckeditor_uploader\widgets.py", line 12, in _set_config
+    self.config.setdefault('filebrowserUploadUrl', reverse('ckeditor_upload'))
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\urls\base.py", line 90, in reverse
+    return iri_to_uri(resolver._reverse_with_prefix(view, prefix, *args, **kwargs))
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\urls\resolvers.py", line 636, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'ckeditor_upload' not found. 'ckeditor_upload' is not a valid view function or pattern name.
+ERROR 2020-10-12 19:11:03,107 basehttp 124 "GET /xadmin/course/course/25/update/ HTTP/1.1" 500 719642
+ERROR 2020-10-12 19:14:35,573 exception 118 Internal Server Error: /xadmin/course/course/25/update/
+Traceback (most recent call last):
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\core\handlers\exception.py", line 35, in inner
+    response = get_response(request)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\core\handlers\base.py", line 158, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\core\handlers\base.py", line 156, in _get_response
+    response = response.render()
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\response.py", line 106, in render
+    self.content = self.rendered_content
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\response.py", line 83, in rendered_content
+    content = template.render(context, self._request)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 175, in render
+    return self._render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 943, in render
+    bit = node.render_annotated(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 910, in render_annotated
+    return self.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\loader_tags.py", line 155, in render
+    return compiled_parent._render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 943, in render
+    bit = node.render_annotated(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 910, in render_annotated
+    return self.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\loader_tags.py", line 155, in render
+    return compiled_parent._render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 943, in render
+    bit = node.render_annotated(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 910, in render_annotated
+    return self.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\loader_tags.py", line 67, in render
+    result = block.nodelist.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 943, in render
+    bit = node.render_annotated(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 910, in render_annotated
+    return self.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\loader_tags.py", line 67, in render
+    result = block.nodelist.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 943, in render
+    bit = node.render_annotated(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 910, in render_annotated
+    return self.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\crispy_forms\templatetags\crispy_forms_tags.py", line 203, in render
+    c = self.get_render(context).flatten()
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\crispy_forms\templatetags\crispy_forms_tags.py", line 120, in get_render
+    actual_form, node_context, template_pack=self.template_pack
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\crispy_forms\helper.py", line 301, in render_layout
+    html = self.layout.render(form, self.form_style, context, template_pack=template_pack)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\crispy_forms\layout.py", line 135, in render
+    return self.get_rendered_fields(form, form_style, context, template_pack, **kwargs)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\crispy_forms\layout.py", line 98, in get_rendered_fields
+    for field in self.fields
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\crispy_forms\layout.py", line 98, in <genexpr>
+    for field in self.fields
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\crispy_forms\utils.py", line 66, in render_field
+    return field.render(form, form_style, context, template_pack=template_pack,)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\crispy_forms\layout.py", line 367, in render
+    fields = self.get_rendered_fields(form, form_style, context, template_pack, **kwargs)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\crispy_forms\layout.py", line 98, in get_rendered_fields
+    for field in self.fields
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\crispy_forms\layout.py", line 98, in <genexpr>
+    for field in self.fields
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\crispy_forms\utils.py", line 66, in render_field
+    return field.render(form, form_style, context, template_pack=template_pack,)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\crispy_forms\layout.py", line 367, in render
+    fields = self.get_rendered_fields(form, form_style, context, template_pack, **kwargs)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\crispy_forms\layout.py", line 98, in get_rendered_fields
+    for field in self.fields
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\crispy_forms\layout.py", line 98, in <genexpr>
+    for field in self.fields
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\crispy_forms\utils.py", line 66, in render_field
+    return field.render(form, form_style, context, template_pack=template_pack,)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\crispy_forms\layout.py", line 289, in render
+    fields = self.get_rendered_fields(form, form_style, context, template_pack, **kwargs)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\crispy_forms\layout.py", line 98, in get_rendered_fields
+    for field in self.fields
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\crispy_forms\layout.py", line 98, in <genexpr>
+    for field in self.fields
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\crispy_forms\utils.py", line 139, in render_field
+    html = template.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 175, in render
+    return self._render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 943, in render
+    bit = node.render_annotated(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 910, in render_annotated
+    return self.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\defaulttags.py", line 314, in render
+    return nodelist.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 943, in render
+    bit = node.render_annotated(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 910, in render_annotated
+    return self.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\defaulttags.py", line 314, in render
+    return nodelist.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 943, in render
+    bit = node.render_annotated(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 910, in render_annotated
+    return self.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\defaulttags.py", line 314, in render
+    return nodelist.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 943, in render
+    bit = node.render_annotated(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 910, in render_annotated
+    return self.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\crispy_forms\templatetags\crispy_forms_field.py", line 155, in render
+    return str(field)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\utils\html.py", line 380, in <lambda>
+    klass.__str__ = lambda self: mark_safe(klass_str(self))
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\forms\boundfield.py", line 36, in __str__
+    return self.as_widget()
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\forms\boundfield.py", line 118, in as_widget
+    **kwargs
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\ckeditor\widgets.py", line 117, in render
+    self._set_config()
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\ckeditor_uploader\widgets.py", line 12, in _set_config
+    self.config.setdefault('filebrowserUploadUrl', reverse('ckeditor_upload'))
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\urls\base.py", line 90, in reverse
+    return iri_to_uri(resolver._reverse_with_prefix(view, prefix, *args, **kwargs))
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\urls\resolvers.py", line 636, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'ckeditor_upload' not found. 'ckeditor_upload' is not a valid view function or pattern name.
+ERROR 2020-10-12 19:14:35,742 basehttp 124 "GET /xadmin/course/course/25/update/ HTTP/1.1" 500 719779
+ERROR 2020-10-12 19:18:11,715 exception 118 Internal Server Error: /xadmin/course/course/25/update/
+Traceback (most recent call last):
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\core\handlers\exception.py", line 35, in inner
+    response = get_response(request)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\core\handlers\base.py", line 158, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\core\handlers\base.py", line 156, in _get_response
+    response = response.render()
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\response.py", line 106, in render
+    self.content = self.rendered_content
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\response.py", line 83, in rendered_content
+    content = template.render(context, self._request)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 175, in render
+    return self._render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 943, in render
+    bit = node.render_annotated(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 910, in render_annotated
+    return self.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\loader_tags.py", line 155, in render
+    return compiled_parent._render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 943, in render
+    bit = node.render_annotated(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 910, in render_annotated
+    return self.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\loader_tags.py", line 155, in render
+    return compiled_parent._render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 943, in render
+    bit = node.render_annotated(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 910, in render_annotated
+    return self.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\loader_tags.py", line 67, in render
+    result = block.nodelist.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 943, in render
+    bit = node.render_annotated(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 910, in render_annotated
+    return self.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\loader_tags.py", line 67, in render
+    result = block.nodelist.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 943, in render
+    bit = node.render_annotated(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 910, in render_annotated
+    return self.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\crispy_forms\templatetags\crispy_forms_tags.py", line 203, in render
+    c = self.get_render(context).flatten()
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\crispy_forms\templatetags\crispy_forms_tags.py", line 120, in get_render
+    actual_form, node_context, template_pack=self.template_pack
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\crispy_forms\helper.py", line 301, in render_layout
+    html = self.layout.render(form, self.form_style, context, template_pack=template_pack)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\crispy_forms\layout.py", line 135, in render
+    return self.get_rendered_fields(form, form_style, context, template_pack, **kwargs)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\crispy_forms\layout.py", line 98, in get_rendered_fields
+    for field in self.fields
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\crispy_forms\layout.py", line 98, in <genexpr>
+    for field in self.fields
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\crispy_forms\utils.py", line 66, in render_field
+    return field.render(form, form_style, context, template_pack=template_pack,)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\crispy_forms\layout.py", line 367, in render
+    fields = self.get_rendered_fields(form, form_style, context, template_pack, **kwargs)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\crispy_forms\layout.py", line 98, in get_rendered_fields
+    for field in self.fields
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\crispy_forms\layout.py", line 98, in <genexpr>
+    for field in self.fields
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\crispy_forms\utils.py", line 66, in render_field
+    return field.render(form, form_style, context, template_pack=template_pack,)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\crispy_forms\layout.py", line 367, in render
+    fields = self.get_rendered_fields(form, form_style, context, template_pack, **kwargs)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\crispy_forms\layout.py", line 98, in get_rendered_fields
+    for field in self.fields
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\crispy_forms\layout.py", line 98, in <genexpr>
+    for field in self.fields
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\crispy_forms\utils.py", line 66, in render_field
+    return field.render(form, form_style, context, template_pack=template_pack,)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\crispy_forms\layout.py", line 289, in render
+    fields = self.get_rendered_fields(form, form_style, context, template_pack, **kwargs)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\crispy_forms\layout.py", line 98, in get_rendered_fields
+    for field in self.fields
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\crispy_forms\layout.py", line 98, in <genexpr>
+    for field in self.fields
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\crispy_forms\utils.py", line 139, in render_field
+    html = template.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 175, in render
+    return self._render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 943, in render
+    bit = node.render_annotated(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 910, in render_annotated
+    return self.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\defaulttags.py", line 314, in render
+    return nodelist.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 943, in render
+    bit = node.render_annotated(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 910, in render_annotated
+    return self.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\defaulttags.py", line 314, in render
+    return nodelist.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 943, in render
+    bit = node.render_annotated(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 910, in render_annotated
+    return self.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\defaulttags.py", line 314, in render
+    return nodelist.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 943, in render
+    bit = node.render_annotated(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 910, in render_annotated
+    return self.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\crispy_forms\templatetags\crispy_forms_field.py", line 155, in render
+    return str(field)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\utils\html.py", line 380, in <lambda>
+    klass.__str__ = lambda self: mark_safe(klass_str(self))
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\forms\boundfield.py", line 36, in __str__
+    return self.as_widget()
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\forms\boundfield.py", line 118, in as_widget
+    **kwargs
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\ckeditor\widgets.py", line 117, in render
+    self._set_config()
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\ckeditor_uploader\widgets.py", line 12, in _set_config
+    self.config.setdefault('filebrowserUploadUrl', reverse('ckeditor_upload'))
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\urls\base.py", line 90, in reverse
+    return iri_to_uri(resolver._reverse_with_prefix(view, prefix, *args, **kwargs))
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\urls\resolvers.py", line 636, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'ckeditor_upload' not found. 'ckeditor_upload' is not a valid view function or pattern name.
+ERROR 2020-10-12 19:18:11,819 basehttp 124 "GET /xadmin/course/course/25/update/ HTTP/1.1" 500 719779
+ERROR 2020-10-12 19:28:58,686 exception 118 Internal Server Error: /xadmin/course/course/29/update/
+Traceback (most recent call last):
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\core\handlers\exception.py", line 35, in inner
+    response = get_response(request)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\core\handlers\base.py", line 158, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\core\handlers\base.py", line 156, in _get_response
+    response = response.render()
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\response.py", line 106, in render
+    self.content = self.rendered_content
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\response.py", line 83, in rendered_content
+    content = template.render(context, self._request)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 175, in render
+    return self._render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 943, in render
+    bit = node.render_annotated(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 910, in render_annotated
+    return self.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\loader_tags.py", line 155, in render
+    return compiled_parent._render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 943, in render
+    bit = node.render_annotated(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 910, in render_annotated
+    return self.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\loader_tags.py", line 155, in render
+    return compiled_parent._render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 943, in render
+    bit = node.render_annotated(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 910, in render_annotated
+    return self.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\loader_tags.py", line 67, in render
+    result = block.nodelist.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 943, in render
+    bit = node.render_annotated(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 910, in render_annotated
+    return self.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\loader_tags.py", line 67, in render
+    result = block.nodelist.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 943, in render
+    bit = node.render_annotated(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 910, in render_annotated
+    return self.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\crispy_forms\templatetags\crispy_forms_tags.py", line 203, in render
+    c = self.get_render(context).flatten()
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\crispy_forms\templatetags\crispy_forms_tags.py", line 120, in get_render
+    actual_form, node_context, template_pack=self.template_pack
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\crispy_forms\helper.py", line 301, in render_layout
+    html = self.layout.render(form, self.form_style, context, template_pack=template_pack)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\crispy_forms\layout.py", line 135, in render
+    return self.get_rendered_fields(form, form_style, context, template_pack, **kwargs)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\crispy_forms\layout.py", line 98, in get_rendered_fields
+    for field in self.fields
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\crispy_forms\layout.py", line 98, in <genexpr>
+    for field in self.fields
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\crispy_forms\utils.py", line 66, in render_field
+    return field.render(form, form_style, context, template_pack=template_pack,)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\crispy_forms\layout.py", line 367, in render
+    fields = self.get_rendered_fields(form, form_style, context, template_pack, **kwargs)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\crispy_forms\layout.py", line 98, in get_rendered_fields
+    for field in self.fields
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\crispy_forms\layout.py", line 98, in <genexpr>
+    for field in self.fields
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\crispy_forms\utils.py", line 66, in render_field
+    return field.render(form, form_style, context, template_pack=template_pack,)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\crispy_forms\layout.py", line 367, in render
+    fields = self.get_rendered_fields(form, form_style, context, template_pack, **kwargs)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\crispy_forms\layout.py", line 98, in get_rendered_fields
+    for field in self.fields
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\crispy_forms\layout.py", line 98, in <genexpr>
+    for field in self.fields
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\crispy_forms\utils.py", line 66, in render_field
+    return field.render(form, form_style, context, template_pack=template_pack,)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\crispy_forms\layout.py", line 289, in render
+    fields = self.get_rendered_fields(form, form_style, context, template_pack, **kwargs)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\crispy_forms\layout.py", line 98, in get_rendered_fields
+    for field in self.fields
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\crispy_forms\layout.py", line 98, in <genexpr>
+    for field in self.fields
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\crispy_forms\utils.py", line 139, in render_field
+    html = template.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 175, in render
+    return self._render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 943, in render
+    bit = node.render_annotated(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 910, in render_annotated
+    return self.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\defaulttags.py", line 314, in render
+    return nodelist.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 943, in render
+    bit = node.render_annotated(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 910, in render_annotated
+    return self.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\defaulttags.py", line 314, in render
+    return nodelist.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 943, in render
+    bit = node.render_annotated(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 910, in render_annotated
+    return self.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\defaulttags.py", line 314, in render
+    return nodelist.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 943, in render
+    bit = node.render_annotated(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\template\base.py", line 910, in render_annotated
+    return self.render(context)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\crispy_forms\templatetags\crispy_forms_field.py", line 155, in render
+    return str(field)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\utils\html.py", line 380, in <lambda>
+    klass.__str__ = lambda self: mark_safe(klass_str(self))
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\forms\boundfield.py", line 36, in __str__
+    return self.as_widget()
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\forms\boundfield.py", line 118, in as_widget
+    **kwargs
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\ckeditor\widgets.py", line 117, in render
+    self._set_config()
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\ckeditor_uploader\widgets.py", line 12, in _set_config
+    self.config.setdefault('filebrowserUploadUrl', reverse('ckeditor_upload'))
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\urls\base.py", line 90, in reverse
+    return iri_to_uri(resolver._reverse_with_prefix(view, prefix, *args, **kwargs))
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\urls\resolvers.py", line 636, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'ckeditor_upload' not found. 'ckeditor_upload' is not a valid view function or pattern name.
+ERROR 2020-10-12 19:28:58,862 basehttp 124 "GET /xadmin/course/course/29/update/ HTTP/1.1" 500 722097
+WARNING 2020-10-12 20:29:34,887 basehttp 124 "POST /cart/option/ HTTP/1.1" 403 35
+WARNING 2020-10-12 20:32:16,278 basehttp 124 "GET /cart/order/ HTTP/1.1" 403 38
+WARNING 2020-10-12 20:32:19,216 basehttp 124 "GET /cart/order/ HTTP/1.1" 403 38
+WARNING 2020-10-12 20:32:37,152 basehttp 124 "GET /cart/option/ HTTP/1.1" 403 38
+WARNING 2020-10-12 20:33:31,200 basehttp 124 "GET /cart/option/ HTTP/1.1" 403 38
+WARNING 2020-10-12 20:36:29,524 basehttp 124 "GET /cart/option/ HTTP/1.1" 403 38
+WARNING 2020-10-12 20:39:47,317 basehttp 124 "GET /cart/option/ HTTP/1.1" 403 38
+WARNING 2020-10-12 20:48:57,458 basehttp 124 "GET /cart/option/ HTTP/1.1" 403 38
+WARNING 2020-10-12 21:18:05,834 basehttp 124 "POST /user/login/ HTTP/1.1" 400 81
+WARNING 2020-10-12 21:23:21,851 basehttp 124 "PUT /cart/option/ HTTP/1.1" 403 35
+WARNING 2020-10-12 21:23:36,456 basehttp 124 "PUT /cart/option/ HTTP/1.1" 403 35
+WARNING 2020-10-12 21:23:40,114 basehttp 124 "PUT /cart/option/ HTTP/1.1" 403 35
+WARNING 2020-10-12 21:54:37,001 basehttp 124 "GET /cart/option/ HTTP/1.1" 403 35
+WARNING 2020-10-12 21:59:02,240 base 93 Not Found: /user/sms/18237068250/
+WARNING 2020-10-12 21:59:02,242 basehttp 124 "GET /user/sms/18237068250/ HTTP/1.1" 404 3656
+WARNING 2020-10-12 21:59:14,586 basehttp 124 "GET /user/check_phone/18237068250 HTTP/1.1" 400 41
+WARNING 2020-10-12 21:59:27,033 base 93 Not Found: /user/sms/18237068250/
+WARNING 2020-10-12 21:59:27,034 basehttp 124 "GET /user/sms/18237068250/ HTTP/1.1" 404 3656
+WARNING 2020-10-12 21:59:41,024 base 93 Not Found: /user/sms/18237068250/
+WARNING 2020-10-12 21:59:41,024 basehttp 124 "GET /user/sms/18237068250/ HTTP/1.1" 404 3656
+WARNING 2020-10-12 21:59:55,338 base 93 Not Found: /user/sms/18237068250/
+WARNING 2020-10-12 21:59:55,338 basehttp 124 "GET /user/sms/18237068250/ HTTP/1.1" 404 3656
+WARNING 2020-10-12 21:59:57,739 base 93 Not Found: /user/sms/18237068250/
+WARNING 2020-10-12 21:59:57,739 basehttp 124 "GET /user/sms/18237068250/ HTTP/1.1" 404 3656
+WARNING 2020-10-12 21:59:57,868 base 93 Not Found: /favicon.ico
+WARNING 2020-10-12 21:59:57,868 basehttp 124 "GET /favicon.ico HTTP/1.1" 404 2736
+WARNING 2020-10-12 22:02:33,826 base 93 Not Found: /user/check_phone/18237068250/
+WARNING 2020-10-12 22:02:33,827 basehttp 124 "GET /user/check_phone/18237068250/ HTTP/1.1" 404 3518
+WARNING 2020-10-12 22:11:28,060 base 93 Not Found: /user/check_phone/18237068250/
+WARNING 2020-10-12 22:11:28,060 basehttp 124 "GET /user/check_phone/18237068250/ HTTP/1.1" 404 3518
+WARNING 2020-10-12 22:11:54,999 base 93 Not Found: /user/check_phone/18237068250/
+WARNING 2020-10-12 22:11:54,999 basehttp 124 "GET /user/check_phone/18237068250/ HTTP/1.1" 404 3518
+WARNING 2020-10-12 22:15:06,321 basehttp 124 "GET /cart/option/ HTTP/1.1" 403 35
+WARNING 2020-10-12 22:15:13,495 basehttp 124 "GET /cart/option/ HTTP/1.1" 403 35
+WARNING 2020-10-12 22:16:43,872 base 93 Not Found: /user/sms/18237068250/
+WARNING 2020-10-12 22:16:43,872 basehttp 124 "GET /user/sms/18237068250/ HTTP/1.1" 404 3494
+WARNING 2020-10-12 22:17:26,322 base 93 Not Found: /user/sms/18237068250/
+WARNING 2020-10-12 22:17:26,323 basehttp 124 "GET /user/sms/18237068250/ HTTP/1.1" 404 3494
+WARNING 2020-10-12 22:19:07,884 basehttp 124 "POST /user/login/ HTTP/1.1" 400 67
+WARNING 2020-10-12 22:19:27,982 basehttp 124 "GET /user/login/ HTTP/1.1" 405 7689
+WARNING 2020-10-12 22:19:37,668 basehttp 124 "GET /user/login/ HTTP/1.1" 405 7689
+WARNING 2020-10-12 22:21:05,327 basehttp 124 "POST /user/login/ HTTP/1.1" 400 67
+WARNING 2020-10-12 22:21:25,308 base 93 Not Found: /user/check_phone/
+WARNING 2020-10-12 22:21:25,309 basehttp 124 "GET /user/check_phone/ HTTP/1.1" 404 3482
+WARNING 2020-10-12 22:24:36,483 basehttp 124 "POST /user/login/ HTTP/1.1" 400 67
+WARNING 2020-10-12 22:26:42,815 basehttp 124 "GET /user/login/ HTTP/1.1" 405 45
+WARNING 2020-10-12 22:28:04,307 basehttp 124 "POST /user/login/ HTTP/1.1" 400 67
+WARNING 2020-10-12 22:32:54,173 basehttp 124 "POST /user/login/ HTTP/1.1" 400 67
+WARNING 2020-10-12 22:36:18,827 basehttp 124 "GET /cart/option/ HTTP/1.1" 403 35
+ERROR 2020-10-13 07:49:59,231 views 56 数据储存失败！
+ERROR 2020-10-13 07:49:59,262 basehttp 124 "POST /cart/option/ HTTP/1.1" 507 62
+ERROR 2020-10-13 07:50:01,765 views 56 数据储存失败！
+ERROR 2020-10-13 07:50:01,765 basehttp 124 "POST /cart/option/ HTTP/1.1" 507 62
+WARNING 2020-10-13 07:51:55,030 basehttp 124 "GET /cart/option/ HTTP/1.1" 403 38
+WARNING 2020-10-13 07:52:23,229 basehttp 124 "GET /cart/option/ HTTP/1.1" 403 38
+WARNING 2020-10-13 07:53:29,198 basehttp 124 "GET /cart/option/ HTTP/1.1" 403 38
+WARNING 2020-10-13 07:54:13,518 basehttp 124 "POST /user/login/ HTTP/1.1" 400 67
+WARNING 2020-10-13 09:29:37,039 basehttp 124 "POST /user/login/ HTTP/1.1" 400 67
+WARNING 2020-10-13 11:13:16,607 basehttp 124 "POST /user/login/ HTTP/1.1" 400 67
+WARNING 2020-10-13 11:14:17,170 basehttp 124 "GET /cart/option/ HTTP/1.1" 403 38
+WARNING 2020-10-13 11:14:40,405 basehttp 124 "GET /cart/option/ HTTP/1.1" 403 38
+WARNING 2020-10-13 11:15:02,567 basehttp 124 "GET /cart/option/ HTTP/1.1" 403 38
+WARNING 2020-10-13 14:25:09,847 basehttp 124 "GET /cart/order/ HTTP/1.1" 403 38
+WARNING 2020-10-13 14:25:12,952 basehttp 124 "GET /cart/order/ HTTP/1.1" 403 38
+WARNING 2020-10-13 14:25:17,724 basehttp 124 "GET /cart/order/ HTTP/1.1" 403 38
+WARNING 2020-10-13 14:27:06,300 basehttp 124 "GET /cart/order/ HTTP/1.1" 403 38
+WARNING 2020-10-13 16:26:01,039 basehttp 124 "GET /cart/order/ HTTP/1.1" 403 38
+WARNING 2020-10-13 16:28:54,423 basehttp 124 "GET /cart/order/ HTTP/1.1" 403 38
+WARNING 2020-10-13 16:29:05,663 basehttp 124 "GET /cart/option/ HTTP/1.1" 403 35
+WARNING 2020-10-13 17:02:37,565 basehttp 124 "POST /cart/option/ HTTP/1.1" 403 35
+WARNING 2020-10-13 17:02:57,369 basehttp 124 "POST /cart/option/ HTTP/1.1" 403 35
+WARNING 2020-10-13 17:10:50,149 basehttp 124 "GET /cart/option/ HTTP/1.1" 403 35
+WARNING 2020-10-13 17:10:55,467 basehttp 124 "POST /cart/option/ HTTP/1.1" 403 35
+WARNING 2020-10-13 17:10:56,922 basehttp 124 "POST /cart/option/ HTTP/1.1" 403 35
+ERROR 2020-10-13 17:23:54,207 basehttp 124 "GET /user/sms/18237068250 HTTP/1.1" 500 32
+WARNING 2020-10-13 17:24:13,127 basehttp 124 "POST /user/login/ HTTP/1.1" 400 67
+ERROR 2020-10-13 17:34:35,777 basehttp 124 "GET /course/detail/29 HTTP/1.1" 500 87
+ERROR 2020-10-13 17:38:00,278 basehttp 124 "GET /course/detail/29 HTTP/1.1" 500 87
+ERROR 2020-10-13 17:38:21,116 basehttp 124 "GET /course/detail/29 HTTP/1.1" 500 87
+ERROR 2020-10-13 17:43:49,717 basehttp 124 "GET /course/detail/29 HTTP/1.1" 500 87
+ERROR 2020-10-13 17:45:56,488 basehttp 124 "GET /course/detail/29 HTTP/1.1" 500 87
+ERROR 2020-10-13 17:46:10,467 basehttp 124 "GET /course/detail/29 HTTP/1.1" 500 87
+WARNING 2020-10-13 17:46:13,085 basehttp 124 "POST /cart/option/ HTTP/1.1" 403 35
+WARNING 2020-10-13 17:47:59,466 base 93 Not Found: /course/detail/29/
+WARNING 2020-10-13 17:47:59,467 basehttp 124 "GET /course/detail/29/ HTTP/1.1" 404 3660
+WARNING 2020-10-13 17:48:06,882 base 93 Not Found: /course/detail/29/
+WARNING 2020-10-13 17:48:06,883 basehttp 124 "GET /course/detail/29/ HTTP/1.1" 404 3660
+WARNING 2020-10-13 17:48:35,532 base 93 Not Found: /course/detail/29/
+WARNING 2020-10-13 17:48:35,532 basehttp 124 "GET /course/detail/29/ HTTP/1.1" 404 3660
+ERROR 2020-10-13 17:53:45,305 basehttp 124 "GET /course/detail/29 HTTP/1.1" 500 87
+ERROR 2020-10-13 17:53:46,638 basehttp 124 "GET /course/detail/29 HTTP/1.1" 500 87
+ERROR 2020-10-13 17:54:55,867 basehttp 124 "GET /course/detail/29 HTTP/1.1" 500 87
+ERROR 2020-10-13 17:58:15,180 basehttp 124 "GET /course/filter_course/?page=1&size=2&ordering=-id HTTP/1.1" 500 87
+ERROR 2020-10-13 17:58:17,942 basehttp 124 "GET /course/filter_course/?page=1&size=2&ordering=-id HTTP/1.1" 500 87
+ERROR 2020-10-13 18:00:41,607 basehttp 124 "GET /course/filter_course/?page=1&size=2&ordering=-id HTTP/1.1" 500 87
+ERROR 2020-10-13 18:11:38,819 basehttp 124 "GET /course/filter_course/?page=1&size=2&ordering=-id HTTP/1.1" 500 87
+ERROR 2020-10-13 18:12:59,515 basehttp 124 "GET /course/filter_course/?page=1&size=2&ordering=-id HTTP/1.1" 500 87
+ERROR 2020-10-13 18:13:07,390 basehttp 124 "GET /course/filter_course/?page=1&size=2&ordering=-id HTTP/1.1" 500 87
+ERROR 2020-10-13 18:13:09,572 basehttp 124 "GET /course/filter_course/?page=1&size=2&ordering=-id HTTP/1.1" 500 87
+ERROR 2020-10-13 18:13:14,692 basehttp 124 "GET /course/filter_course/?page=1&size=2&ordering=-id HTTP/1.1" 500 87
+WARNING 2020-10-13 18:18:07,818 basehttp 124 "POST /cart/option/ HTTP/1.1" 403 38
+WARNING 2020-10-13 18:18:28,997 basehttp 124 "POST /cart/option/ HTTP/1.1" 403 38
+WARNING 2020-10-13 18:21:56,312 basehttp 124 "POST /cart/option/ HTTP/1.1" 403 38
+WARNING 2020-10-13 18:22:50,737 basehttp 124 "POST /cart/option/ HTTP/1.1" 403 38
+WARNING 2020-10-13 18:25:41,326 basehttp 124 "POST /cart/option/ HTTP/1.1" 403 38
+WARNING 2020-10-13 18:33:45,963 basehttp 124 "POST /cart/option/ HTTP/1.1" 403 38
+WARNING 2020-10-13 18:34:13,897 basehttp 124 "POST /cart/option/ HTTP/1.1" 403 38
+ERROR 2020-10-13 18:37:48,953 exception 118 Internal Server Error: /cart/option/
+Traceback (most recent call last):
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\core\handlers\exception.py", line 35, in inner
+    response = get_response(request)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\core\handlers\base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\core\handlers\base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\rest_framework\viewsets.py", line 103, in view
+    handler = getattr(self, action)
+AttributeError: 'CartViewSet' object has no attribute 'delete_cart'
+ERROR 2020-10-13 18:37:51,164 basehttp 124 "POST /cart/option/ HTTP/1.1" 500 77751
+ERROR 2020-10-13 18:41:39,518 exception 118 Internal Server Error: /cart/option/
+Traceback (most recent call last):
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\core\handlers\exception.py", line 35, in inner
+    response = get_response(request)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\core\handlers\base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\core\handlers\base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\rest_framework\viewsets.py", line 103, in view
+    handler = getattr(self, action)
+AttributeError: 'CartViewSet' object has no attribute 'delete_cart'
+ERROR 2020-10-13 18:41:39,607 basehttp 124 "POST /cart/option/ HTTP/1.1" 500 77752
+ERROR 2020-10-13 18:44:55,314 exception 118 Internal Server Error: /cart/option/
+Traceback (most recent call last):
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\core\handlers\exception.py", line 35, in inner
+    response = get_response(request)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\core\handlers\base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\core\handlers\base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python36\lib\site-packages\rest_framework\viewsets.py", line 103, in view
+    handler = getattr(self, action)
+AttributeError: 'CartViewSet' object has no attribute 'delete_cart'
+ERROR 2020-10-13 18:44:55,405 basehttp 124 "POST /cart/option/ HTTP/1.1" 500 77752
+WARNING 2020-10-13 18:46:35,122 basehttp 124 "POST /cart/option/ HTTP/1.1" 403 38
+WARNING 2020-10-13 18:48:29,011 basehttp 124 "POST /cart/option/ HTTP/1.1" 403 38
+WARNING 2020-10-13 18:49:32,372 basehttp 124 "GET /cart/option/ HTTP/1.1" 403 38
+WARNING 2020-10-13 18:49:55,618 basehttp 124 "POST /cart/option/ HTTP/1.1" 403 38
+WARNING 2020-10-13 18:52:05,555 basehttp 124 "GET /cart/options/ HTTP/1.1" 403 38
+WARNING 2020-10-13 18:52:37,901 base 93 Not Found: /cart/option/
+WARNING 2020-10-13 18:52:37,902 basehttp 124 "POST /cart/option/ HTTP/1.1" 404 2953
+WARNING 2020-10-13 18:53:49,105 basehttp 124 "POST /cart/options/ HTTP/1.1" 403 38
+WARNING 2020-10-14 00:10:29,530 base 93 Not Found: /
+WARNING 2020-10-14 00:10:29,533 basehttp 124 "GET / HTTP/1.1" 404 2685
+WARNING 2020-10-14 00:10:29,589 base 93 Not Found: /favicon.ico
+WARNING 2020-10-14 00:10:29,589 basehttp 124 "GET /favicon.ico HTTP/1.1" 404 2736
+WARNING 2020-10-14 00:10:37,433 base 93 Not Found: /adminx
+WARNING 2020-10-14 00:10:37,434 basehttp 124 "GET /adminx HTTP/1.1" 404 2721
+WARNING 2020-10-14 00:10:40,467 base 93 Not Found: /adminx
+WARNING 2020-10-14 00:10:40,468 basehttp 124 "GET /adminx HTTP/1.1" 404 2721
+WARNING 2020-10-14 00:39:36,689 base 93 Not Found: /
+WARNING 2020-10-14 00:39:36,694 basehttp 124 "GET / HTTP/1.1" 404 2685
+WARNING 2020-10-14 00:39:36,752 base 93 Not Found: /favicon.ico
+WARNING 2020-10-14 00:39:36,753 basehttp 124 "GET /favicon.ico HTTP/1.1" 404 2736
+WARNING 2020-10-14 00:41:03,825 base 93 Not Found: /course/list_filter/
+WARNING 2020-10-14 00:41:03,827 basehttp 124 "GET /course/list_filter/?page=1&size=2&ordering=-id HTTP/1.1" 404 3350
+WARNING 2020-10-14 00:41:11,102 base 93 Not Found: /course/list_filter/
+WARNING 2020-10-14 00:41:11,103 basehttp 124 "GET /course/list_filter/?page=1&size=2&ordering=-id HTTP/1.1" 404 3350
+WARNING 2020-10-14 00:42:17,220 base 93 Not Found: /course/
+WARNING 2020-10-14 00:42:17,222 basehttp 124 "GET /course/?page=1&size=2&ordering=-id HTTP/1.1" 404 3314
+WARNING 2020-10-14 01:00:46,937 base 93 Not Found: /course/undefined
+WARNING 2020-10-14 01:00:46,941 basehttp 124 "GET /course/undefined?page=1&size=2&ordering=-id HTTP/1.1" 404 3341
+WARNING 2020-10-14 01:00:49,821 base 93 Not Found: /course/undefined
+WARNING 2020-10-14 01:00:49,824 basehttp 124 "GET /course/undefined?page=1&size=2&ordering=-id HTTP/1.1" 404 3341
+WARNING 2020-10-14 01:01:21,382 base 93 Not Found: /course/undefined/
+WARNING 2020-10-14 01:01:21,386 basehttp 124 "GET /course/undefined/?page=1&size=2&ordering=-id HTTP/1.1" 404 3344
+ERROR 2020-10-14 01:07:48,848 basehttp 124 "GET /course/list_filter/29 HTTP/1.1" 500 87
+ERROR 2020-10-14 01:09:14,539 basehttp 124 "GET /course/list_filter/29 HTTP/1.1" 500 87
+ERROR 2020-10-14 01:22:51,763 basehttp 124 "GET /course/list_filter/29 HTTP/1.1" 500 87
+ERROR 2020-10-14 01:24:23,385 basehttp 124 "GET /course/list_filter/29 HTTP/1.1" 500 87
+ERROR 2020-10-14 01:25:43,783 basehttp 124 "GET /course/list_filter/29 HTTP/1.1" 500 87
+ERROR 2020-10-14 01:26:48,783 basehttp 124 "GET /course/list_filter/29 HTTP/1.1" 500 87
+WARNING 2020-10-14 01:29:58,678 base 93 Not Found: /cart/options/
+WARNING 2020-10-14 01:29:58,679 basehttp 124 "POST /cart/options/ HTTP/1.1" 404 2958
+WARNING 2020-10-14 01:36:42,483 basehttp 124 "POST /cart/options/ HTTP/1.1" 403 38
+WARNING 2020-10-14 01:36:54,039 basehttp 124 "POST /cart/options/ HTTP/1.1" 403 38
+WARNING 2020-10-14 01:36:59,952 basehttp 124 "POST /cart/options/ HTTP/1.1" 403 38
+WARNING 2020-10-14 01:37:07,743 basehttp 124 "POST /cart/options/ HTTP/1.1" 403 38
+WARNING 2020-10-14 01:47:53,117 base 93 Not Found: /course/list_filter/0
+WARNING 2020-10-14 01:47:53,118 basehttp 124 "GET /course/chapter/?course=0 HTTP/1.1" 400 82
+WARNING 2020-10-14 01:47:53,119 basehttp 124 "GET /course/list_filter/0 HTTP/1.1" 404 25
+WARNING 2020-10-14 01:47:57,846 base 93 Not Found: /course/list_filter/0
+WARNING 2020-10-14 01:47:57,846 basehttp 124 "GET /course/list_filter/0 HTTP/1.1" 404 25
+WARNING 2020-10-14 01:47:57,848 basehttp 124 "GET /course/chapter/?course=0 HTTP/1.1" 400 82
+WARNING 2020-10-14 01:48:02,408 base 93 Not Found: /course/list_filter/0
+WARNING 2020-10-14 01:48:02,410 basehttp 124 "GET /course/list_filter/0 HTTP/1.1" 404 25
+WARNING 2020-10-14 01:48:02,410 basehttp 124 "GET /course/chapter/?course=0 HTTP/1.1" 400 82
+WARNING 2020-10-14 06:14:35,288 basehttp 124 "POST /cart/options/ HTTP/1.1" 403 38
+WARNING 2020-10-14 06:19:47,408 base 93 Not Found: /course/list_filter/0
+WARNING 2020-10-14 06:19:47,413 basehttp 124 "GET /course/list_filter/0 HTTP/1.1" 404 25
+WARNING 2020-10-14 06:19:47,416 basehttp 124 "GET /course/chapter/?course=0 HTTP/1.1" 400 82
+WARNING 2020-10-14 06:22:50,613 base 93 Not Found: /order/options/
+WARNING 2020-10-14 06:22:50,614 basehttp 124 "POST /order/options/ HTTP/1.1" 404 2957
+WARNING 2020-10-14 09:07:57,514 basehttp 124 "GET /cart/order/ HTTP/1.1" 403 35
+WARNING 2020-10-14 09:08:20,532 base 93 Not Found: /user/msg/18237068250
+WARNING 2020-10-14 09:08:20,533 basehttp 124 "GET /user/msg/18237068250 HTTP/1.1" 404 3491
+ERROR 2020-10-14 09:15:50,606 basehttp 124 "GET /user/msg/18237068250 HTTP/1.1" 500 87
+WARNING 2020-10-14 09:17:47,411 base 93 Not Found: /payments/alipay/
+WARNING 2020-10-14 09:17:47,412 basehttp 124 "GET /payments/alipay/?order_number=20201014091747000002000001 HTTP/1.1" 404 3005
+WARNING 2020-10-14 09:21:54,258 basehttp 124 "POST /cart/options/ HTTP/1.1" 403 35
+WARNING 2020-10-14 09:21:57,346 basehttp 124 "POST /cart/options/ HTTP/1.1" 403 35
+WARNING 2020-10-14 09:22:16,830 basehttp 124 "POST /cart/options/ HTTP/1.1" 403 35
+WARNING 2020-10-14 09:24:47,904 basehttp 124 "GET /cart/options/ HTTP/1.1" 403 38
+WARNING 2020-10-14 09:25:20,999 basehttp 124 "POST /user/login/ HTTP/1.1" 400 67
+WARNING 2020-10-14 09:25:36,319 basehttp 124 "POST /user/login/ HTTP/1.1" 400 67
+WARNING 2020-10-14 09:25:52,380 basehttp 124 "POST /user/login/ HTTP/1.1" 400 67
+WARNING 2020-10-14 09:26:07,205 base 93 Not Found: /user/check_phone/
+WARNING 2020-10-14 09:26:07,207 basehttp 124 "GET /user/check_phone/ HTTP/1.1" 404 3646
+WARNING 2020-10-14 09:28:17,876 base 93 Not Found: /user/sms/13734802730
+WARNING 2020-10-14 09:28:17,877 basehttp 124 "GET /user/sms/13734802730 HTTP/1.1" 404 3655
+WARNING 2020-10-14 09:29:33,266 basehttp 124 "POST /user/register/ HTTP/1.1" 400 41
+WARNING 2020-10-14 09:31:52,749 basehttp 124 "POST /user/register/ HTTP/1.1" 400 41
+WARNING 2020-10-14 09:35:37,423 basehttp 124 "POST /user/register/ HTTP/1.1" 400 41
+WARNING 2020-10-14 09:38:34,978 basehttp 124 "POST /user/register/ HTTP/1.1" 400 43
+WARNING 2020-10-14 09:54:07,498 basehttp 124 "POST /user/register/ HTTP/1.1" 400 41
+WARNING 2020-10-14 09:54:31,204 basehttp 124 "POST /user/register/ HTTP/1.1" 400 43
+WARNING 2020-10-14 10:02:28,270 basehttp 124 "POST /user/register/ HTTP/1.1" 400 41
+ERROR 2020-10-14 10:03:29,109 basehttp 124 "POST /user/register/ HTTP/1.1" 500 87
+WARNING 2020-10-14 10:04:08,310 basehttp 124 "GET /user/msg/13704730517 HTTP/1.1" 400 38
+ERROR 2020-10-14 10:04:49,265 basehttp 124 "POST /user/register/ HTTP/1.1" 500 87
+WARNING 2020-10-14 10:07:27,935 basehttp 124 "POST /user/register/ HTTP/1.1" 400 43
+ERROR 2020-10-14 10:09:19,966 basehttp 124 "POST /user/register/ HTTP/1.1" 500 87
+ERROR 2020-10-14 10:09:41,507 basehttp 124 "POST /user/register/ HTTP/1.1" 500 87
+WARNING 2020-10-14 10:18:16,902 base 93 Not Found: /user/check_phone/
+WARNING 2020-10-14 10:18:16,903 basehttp 124 "GET /user/check_phone/ HTTP/1.1" 404 3646
+WARNING 2020-10-14 10:18:21,389 base 93 Not Found: /user/check_phone/
+WARNING 2020-10-14 10:18:21,389 basehttp 124 "GET /user/check_phone/ HTTP/1.1" 404 3646
+WARNING 2020-10-14 10:19:25,719 base 93 Not Found: /user/check_phone/
+WARNING 2020-10-14 10:19:25,719 basehttp 124 "GET /user/check_phone/ HTTP/1.1" 404 3646
+WARNING 2020-10-14 10:19:39,513 basehttp 124 "GET /user/check_phone/13704730517 HTTP/1.1" 400 38
+WARNING 2020-10-14 10:19:56,683 basehttp 124 "GET /user/check_phone/144784521311 HTTP/1.1" 400 35
+WARNING 2020-10-14 10:20:23,530 basehttp 124 "POST /user/register/ HTTP/1.1" 400 43
+WARNING 2020-10-14 10:25:24,414 basehttp 124 "POST /user/register/ HTTP/1.1" 400 41
+WARNING 2020-10-14 10:28:43,581 basehttp 124 "POST /user/register/ HTTP/1.1" 400 41
+ERROR 2020-10-14 10:29:10,083 basehttp 124 "POST /user/register/ HTTP/1.1" 500 87
+ERROR 2020-10-14 10:31:38,758 basehttp 124 "POST /user/register/ HTTP/1.1" 500 87
+WARNING 2020-10-14 10:33:36,018 basehttp 124 "POST /user/register/ HTTP/1.1" 400 54
+WARNING 2020-10-14 10:34:14,765 basehttp 124 "POST /user/register/ HTTP/1.1" 400 41
+WARNING 2020-10-14 10:36:50,562 base 93 Not Found: /payments/alipay/
+WARNING 2020-10-14 10:36:50,563 basehttp 124 "GET /payments/alipay/?order_number=20201014103650000002000002 HTTP/1.1" 404 3005
+WARNING 2020-10-14 10:38:06,331 base 93 Not Found: /payments/alipay/
+WARNING 2020-10-14 10:38:06,331 basehttp 124 "GET /payments/alipay/?order_number=20201014103806000002000003 HTTP/1.1" 404 3005
+WARNING 2020-10-14 10:41:09,489 basehttp 124 "POST /order/options/ HTTP/1.1" 403 35
+WARNING 2020-10-14 10:41:17,649 basehttp 124 "GET /cart/options/ HTTP/1.1" 403 35
+WARNING 2020-10-14 10:48:27,181 base 93 Not Found: /favicon.ico
+WARNING 2020-10-14 10:48:27,182 basehttp 124 "GET /favicon.ico HTTP/1.1" 404 2736
+WARNING 2020-10-14 10:51:33,600 base 93 Not Found: /user/check_phone/
+WARNING 2020-10-14 10:51:33,600 basehttp 124 "GET /user/check_phone/ HTTP/1.1" 404 3646
+WARNING 2020-10-14 11:08:10,606 basehttp 124 "GET /user/check_phone/18237068250 HTTP/1.1" 400 38
+WARNING 2020-10-14 11:08:23,655 basehttp 124 "GET /user/check_phone/18237068250 HTTP/1.1" 400 38
+WARNING 2020-10-14 11:16:39,196 basehttp 124 "POST /cart/options/ HTTP/1.1" 403 35
+WARNING 2020-10-14 11:16:40,266 basehttp 124 "POST /cart/options/ HTTP/1.1" 403 35
+WARNING 2020-10-14 11:26:21,516 basehttp 124 "POST /cart/options/ HTTP/1.1" 403 35
+WARNING 2020-10-14 11:26:26,028 basehttp 124 "POST /cart/options/ HTTP/1.1" 403 35
+WARNING 2020-10-14 11:32:30,784 basehttp 124 "GET /cart/options/ HTTP/1.1" 403 35
+WARNING 2020-10-14 11:32:36,670 basehttp 124 "POST /cart/options/ HTTP/1.1" 403 35
+WARNING 2020-10-14 12:51:19,426 basehttp 124 "POST /cart/options/ HTTP/1.1" 403 35
+WARNING 2020-10-14 12:51:52,810 basehttp 124 "POST /cart/options/ HTTP/1.1" 403 35
+WARNING 2020-10-14 12:52:16,175 basehttp 124 "POST /cart/options/ HTTP/1.1" 403 35
+WARNING 2020-10-14 12:52:22,028 basehttp 124 "POST /cart/options/ HTTP/1.1" 403 35
+WARNING 2020-10-14 12:56:01,484 basehttp 124 "POST /cart/options/ HTTP/1.1" 403 35
+WARNING 2020-10-14 12:56:15,002 basehttp 124 "POST /cart/options/ HTTP/1.1" 403 35
+WARNING 2020-10-14 12:56:52,806 basehttp 124 "POST /cart/options/ HTTP/1.1" 403 35
+WARNING 2020-10-14 12:57:30,661 base 93 Not Found: /
+WARNING 2020-10-14 12:57:30,662 basehttp 124 "GET / HTTP/1.1" 404 2685
+WARNING 2020-10-14 12:57:30,772 base 93 Not Found: /favicon.ico
+WARNING 2020-10-14 12:57:30,773 basehttp 124 "GET /favicon.ico HTTP/1.1" 404 2736
+WARNING 2020-10-14 13:08:37,219 basehttp 124 "POST /cart/options/ HTTP/1.1" 403 35
+WARNING 2020-10-14 13:08:38,777 basehttp 124 "POST /cart/options/ HTTP/1.1" 403 35
+WARNING 2020-10-14 13:14:01,802 base 93 Not Found: /
+WARNING 2020-10-14 13:14:01,804 basehttp 124 "GET / HTTP/1.1" 404 2685
+ERROR 2020-10-14 13:16:24,193 basehttp 124 "GET /course/list_filter/?page=1&size=2&ordering=-id HTTP/1.1" 500 87
+ERROR 2020-10-14 13:16:28,295 basehttp 124 "GET /course/list_filter/?page=1&size=2&ordering=-id HTTP/1.1" 500 87
+ERROR 2020-10-14 13:16:41,460 basehttp 124 "GET /course/list_filter/?page=1&size=2&ordering=-id HTTP/1.1" 500 87
+ERROR 2020-10-14 13:16:43,871 basehttp 124 "GET /course/list_filter/?page=1&size=2&ordering=-id HTTP/1.1" 500 87
+ERROR 2020-10-14 13:19:25,162 basehttp 124 "GET /course/list_filter/?page=1&size=2&ordering=-id HTTP/1.1" 500 87
+ERROR 2020-10-14 13:23:49,117 basehttp 124 "GET /course/list_filter/?page=1&size=2&ordering=-id HTTP/1.1" 500 87
+ERROR 2020-10-14 13:30:53,408 basehttp 124 "GET /course/list_filter/?page=1&size=2&ordering=-id HTTP/1.1" 500 87
+ERROR 2020-10-14 13:31:41,677 basehttp 124 "GET /course/list_filter/?page=1&size=2&ordering=-id HTTP/1.1" 500 87
+ERROR 2020-10-14 13:39:03,274 basehttp 124 "GET /course/list_filter/?page=1&size=2&ordering=-id HTTP/1.1" 500 87
+WARNING 2020-10-14 13:44:31,068 base 93 Not Found: /course/list_filter/
+WARNING 2020-10-14 13:44:31,070 basehttp 124 "GET /course/list_filter/?page=1&size=2&ordering=-id HTTP/1.1" 404 3702
+WARNING 2020-10-14 13:45:24,267 base 93 Not Found: /course/list_filter/
+WARNING 2020-10-14 13:45:24,269 basehttp 124 "GET /course/list_filter/?page=1&size=2&ordering=-id HTTP/1.1" 404 3702
+ERROR 2020-10-14 13:49:10,396 basehttp 124 "GET /course/list_filter/?page=1&size=2&ordering=-id HTTP/1.1" 500 87
+ERROR 2020-10-14 13:49:44,308 basehttp 124 "GET /course/list_filter/?page=1&size=2&ordering=-id HTTP/1.1" 500 87
+ERROR 2020-10-14 13:51:13,242 basehttp 124 "GET /course/list_filter/?page=1&size=2&ordering=-id HTTP/1.1" 500 87
+ERROR 2020-10-14 13:56:55,371 basehttp 124 "GET /course/list_filter/?page=1&size=2&ordering=-id HTTP/1.1" 500 87
+ERROR 2020-10-14 13:58:18,621 basehttp 124 "GET /course/list_filter/?page=1&size=2&ordering=-id HTTP/1.1" 500 87
+WARNING 2020-10-14 13:58:19,569 basehttp 124 "GET /cart/options/ HTTP/1.1" 403 35
+ERROR 2020-10-14 13:58:21,827 basehttp 124 "GET /course/list_filter/?page=1&size=2&ordering=-id HTTP/1.1" 500 87
+ERROR 2020-10-14 13:59:21,185 basehttp 124 "GET /course/list_filter/?page=9&size=2&ordering=-id HTTP/1.1" 500 87
+ERROR 2020-10-14 13:59:26,147 basehttp 124 "GET /course/list_filter/?page=8&size=2&ordering=-price HTTP/1.1" 500 87
+ERROR 2020-10-14 13:59:28,355 basehttp 124 "GET /course/list_filter/?page=8&size=2&ordering=-price HTTP/1.1" 500 87
+ERROR 2020-10-14 13:59:29,546 basehttp 124 "GET /course/list_filter/?page=8&size=2&ordering=-price HTTP/1.1" 500 87
+ERROR 2020-10-14 13:59:31,531 basehttp 124 "GET /course/list_filter/?page=8&size=2&ordering=-price HTTP/1.1" 500 87
+ERROR 2020-10-14 13:59:34,589 basehttp 124 "GET /course/list_filter/?page=8&size=2&ordering=-price HTTP/1.1" 500 87
+WARNING 2020-10-14 14:00:18,144 base 93 Not Found: /list_filter/2
+WARNING 2020-10-14 14:00:18,147 basehttp 124 "GET /list_filter/2 HTTP/1.1" 404 2742
+WARNING 2020-10-14 14:00:31,699 basehttp 124 "POST /cart/options/ HTTP/1.1" 403 35
+WARNING 2020-10-14 14:00:32,312 basehttp 124 "POST /cart/options/ HTTP/1.1" 403 35
+WARNING 2020-10-14 14:00:35,464 basehttp 124 "POST /cart/options/ HTTP/1.1" 403 35
+WARNING 2020-10-14 14:04:36,529 base 93 Not Found: /list_filter/1
+WARNING 2020-10-14 14:04:36,531 basehttp 124 "GET /list_filter/1 HTTP/1.1" 404 2742
+WARNING 2020-10-14 14:04:39,915 basehttp 124 "POST /cart/options/ HTTP/1.1" 403 35
+WARNING 2020-10-14 14:05:06,720 base 93 Not Found: /list_filter/1
+WARNING 2020-10-14 14:05:06,724 basehttp 124 "GET /list_filter/1 HTTP/1.1" 404 2742
+WARNING 2020-10-14 14:07:22,876 base 93 Not Found: /list_filter/1
+WARNING 2020-10-14 14:07:22,880 basehttp 124 "GET /list_filter/1 HTTP/1.1" 404 2742
+WARNING 2020-10-14 14:08:23,505 basehttp 124 "POST /cart/options/ HTTP/1.1" 403 35
+WARNING 2020-10-14 14:36:04,094 basehttp 124 "POST /user/msg_login/ HTTP/1.1" 400 44
+WARNING 2020-10-14 14:37:24,148 basehttp 124 "GET /user/check_phone/18500230996 HTTP/1.1" 400 38
+ERROR 2020-10-14 14:38:25,469 basehttp 124 "GET /course/list_filter/?page=1&size=2&ordering=-students HTTP/1.1" 500 87
+ERROR 2020-10-14 14:38:38,789 basehttp 124 "GET /course/list_filter/?page=5&size=2&ordering=price HTTP/1.1" 500 87
+WARNING 2020-10-14 14:40:01,021 basehttp 124 "DELETE /cart/delcart/3 HTTP/1.1" 403 35
+WARNING 2020-10-14 14:40:11,507 basehttp 124 "DELETE /cart/delcart/2 HTTP/1.1" 403 35
+WARNING 2020-10-14 14:40:17,985 basehttp 124 "DELETE /cart/delcart/2 HTTP/1.1" 403 35
+WARNING 2020-10-14 14:40:19,987 basehttp 124 "DELETE /cart/delcart/22 HTTP/1.1" 403 35
+WARNING 2020-10-14 14:40:22,862 basehttp 124 "GET /cart/options/ HTTP/1.1" 403 35
+WARNING 2020-10-14 14:40:25,970 basehttp 124 "POST /cart/options/ HTTP/1.1" 403 35
+WARNING 2020-10-14 14:40:28,155 basehttp 124 "POST /cart/options/ HTTP/1.1" 403 35
+WARNING 2020-10-14 14:40:31,889 basehttp 124 "POST /cart/options/ HTTP/1.1" 403 35
+WARNING 2020-10-14 14:40:50,442 basehttp 124 "POST /cart/options/ HTTP/1.1" 403 35
+WARNING 2020-10-14 14:40:59,065 basehttp 124 "POST /cart/options/ HTTP/1.1" 403 35
+WARNING 2020-10-14 14:41:05,394 basehttp 124 "POST /cart/options/ HTTP/1.1" 403 35
+WARNING 2020-10-14 14:41:14,618 basehttp 124 "POST /cart/options/ HTTP/1.1" 403 35
+WARNING 2020-10-14 14:41:18,642 basehttp 124 "POST /cart/options/ HTTP/1.1" 403 35
+WARNING 2020-10-14 14:41:37,405 basehttp 124 "POST /cart/options/ HTTP/1.1" 403 35
+WARNING 2020-10-14 14:41:41,928 basehttp 124 "GET /cart/options/ HTTP/1.1" 403 35
+WARNING 2020-10-14 14:42:29,971 basehttp 124 "POST /cart/options/ HTTP/1.1" 403 35
+WARNING 2020-10-14 14:43:04,634 basehttp 124 "POST /cart/options/ HTTP/1.1" 403 35
+WARNING 2020-10-14 14:43:39,503 basehttp 124 "POST /cart/options/ HTTP/1.1" 403 35
+WARNING 2020-10-14 14:44:26,825 basehttp 124 "POST /cart/options/ HTTP/1.1" 403 35
